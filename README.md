@@ -1,18 +1,26 @@
-# Vue 3 + TypeScript + Vite
+# 2023.4 引进漫画整理
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+> `Xerobot` 大佬整理了一份[漫画引进公众号文章](https://mp.weixin.qq.com/s/b_r6Cug9UKFD7PAFhK3SRg)，不是很方便检索，就用`nodejs`把表格整理成`json`文件，然后用`element-plus`表格简单展示一下，增加了筛选。
 
-## Recommended IDE Setup
+## 更新步骤
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+1. 浏览器打开[`https://mp.weixin.qq.com/s/b_r6Cug9UKFD7PAFhK3SRg`](https://mp.weixin.qq.com/s/b_r6Cug9UKFD7PAFhK3SRg) 另存网页到`html`目录下
 
-## Type Support For `.vue` Imports in TS
+2. 更新`books.json`文件，运行
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
+```sh
+# 读取 html 并 parse，最后将表格数据存到 json
+npm run format
+```
 
-If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
+3. 部署
 
-1. Disable the built-in TypeScript Extension
-   1. Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-   2. Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
-2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
+使用`vercel`自动更新网页
+
+## 显示效果
+
+![demo](./src/assets/demo.png)
+
+欢迎大家去关注`Xerobot`
+
+![Xerobot](./src/assets/wechat.jpg)
