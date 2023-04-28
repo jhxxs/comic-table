@@ -2,7 +2,7 @@
   <div class="h-full">
     <div
       ref="wrapperRef"
-      class="px-32px pb-20px pt-24px <sm:px-16px mx-auto max-w-full w-1000px h-full"
+      class="relative px-32px pb-32px pt-24px <sm:px-16px mx-auto max-w-full w-1000px h-full"
     >
       <div class="flex items-center justify-between gap-x-12px">
         <el-input
@@ -69,6 +69,26 @@
         </el-table-column>
       </el-table>
       <el-backtop />
+      <div
+        class="absolute bottom-0 h-32px w-full left-0 text-center flex items-center justify-between <sm:px-16px px-32px"
+      >
+        <el-link
+          href="https://github.com/jhxxs/comic-table"
+          target="_blank"
+          :underline="false"
+        >
+          <img :src="icon" class="inline-block w-18px h-18px cursor-pointer" />
+        </el-link>
+        <el-link
+          href="https://mp.weixin.qq.com/s/b_r6Cug9UKFD7PAFhK3SRg"
+          target="_blank"
+          class="ml-12px text-xs"
+        >
+          <el-text class="mx-1" type="info">
+            <span>来源：xerobot 文章</span></el-text
+          >
+        </el-link>
+      </div>
     </div>
   </div>
 </template>
@@ -78,6 +98,7 @@ import type { TableColumnCtx, TableInstance } from "element-plus"
 import { computed, nextTick, ref } from "vue"
 import type { Book } from "../../html/format"
 import { books, importers } from "../assets/books.json"
+import icon from "../assets/github.svg"
 
 const importerFilters = importers.map((v) => ({ text: v, value: v }))
 const statusFilters = [
