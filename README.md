@@ -1,4 +1,4 @@
-# 2023.4 引进漫画整理
+# 引进漫画整理
 
 > `Xerobot` 大佬整理了一份[漫画引进公众号文章](https://mp.weixin.qq.com/s/b_r6Cug9UKFD7PAFhK3SRg)，不是很方便检索，就用`nodejs`把表格整理成`json`文件，然后用`element-plus`表格简单展示一下，增加了筛选。
 
