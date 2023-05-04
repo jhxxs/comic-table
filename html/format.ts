@@ -17,6 +17,7 @@ export interface Book {
   status: 0 | 1
 }
 
+/** 文章链接列表 */
 const urls = [
   "https://mp.weixin.qq.com/s/4ZvWjvnJrQwVAiypyetRVQ",
   "https://mp.weixin.qq.com/s/f35XBBT4LQGNybvP3eJNsw",
@@ -25,7 +26,7 @@ const urls = [
   "https://mp.weixin.qq.com/s/U6pdDFme4BXH8xUzUf2ytA"
 ]
 
-const browser = await puppeteer.launch({ headless: false })
+const browser = await puppeteer.launch({ headless: "new" })
 const booksList = (
   await Promise.all(
     urls.map(async (url) => {
@@ -37,11 +38,13 @@ const booksList = (
   )
 ).flat()
 
-const books = Object.entries(groupBy(uniqBy(booksList, "name"), "importer"))
+const booksGroup = groupBy(uniqBy(booksList.reverse(), "name"), "importer")
+
+const books = Object.entries(booksGroup)
   .map(([, val]) => val.sort((a, b) => b.status - a.status))
   .flat()
 
-const importers = [...new Set(books.map((v) => v.importer))].filter((v) => v)
+const importers = [...new Set(Object.keys(booksGroup))].filter((v) => v)
 const outputPath = path.resolve(process.cwd(), "src/assets/books.json")
 
 fs.writeFile(outputPath, JSON.stringify({ importers, books }, null, 4), () => {
@@ -55,26 +58,28 @@ async function getBooks() {
   const tableList = [...document.querySelectorAll("table")]
   const booksList = tableList.reduce<Book[]>(
     (list, table, tableIndex, tableList) => {
-      const [, ...trArr] = [...table.querySelectorAll("tr")]
-      const bookArr = trArr.map<Book>((tr) => {
-        const [name, authorText, importer] = [...tr.querySelectorAll("td")].map(
-          (v) => v.textContent ?? ""
-        )
+      ;[...table.querySelectorAll("tr")].forEach((tr) => {
+        const [nameText = "", authorText = "", importerText = ""] = [
+          ...tr.querySelectorAll("td")
+        ].map((v) => v.textContent ?? "")
 
+        const name = nameText.trim().replace(/\*/g, "")
         const author = authorText
           .replace(/\s/g, "")
           .replace(/[，、;]/g, ",")
           .split(",")
+        const importer = importerText.replace(/\s/g, "")
 
-        return {
-          name,
-          author,
-          importer: importer.replace(/\s/g, ""),
-          status: tableIndex == tableList.length - 1 ? 1 : 0
+        if (name !== "作品") {
+          list.push({
+            name,
+            author,
+            importer,
+            status: tableIndex == tableList.length - 1 ? 1 : 0
+          })
         }
       })
 
-      list.push(...bookArr)
       return list
     },
     []

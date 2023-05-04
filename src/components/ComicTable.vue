@@ -79,17 +79,19 @@
         >
           <img :src="icon" class="inline-block w-18px h-18px cursor-pointer" />
         </el-link>
-        <el-link
-          href="https://mp.weixin.qq.com/s/U6pdDFme4BXH8xUzUf2ytA"
-          target="_blank"
-          class="ml-12px text-xs"
-        >
+        <span class="ml-12px text-xs cursor-pointer" @click="visible = true">
           <el-text class="mx-1" type="info">
-            <span>来源：xerobot 文章</span></el-text
+            <span>来源：xerobot 公众号</span></el-text
           >
-        </el-link>
+        </span>
       </div>
     </div>
+
+    <el-dialog v-model="visible" center title="微信扫一扫关注xerobot">
+      <div class="text-center">
+        <img :src="qrcode" class="inline-block" />
+      </div>
+    </el-dialog>
   </div>
 </template>
 <script setup lang="ts">
@@ -99,7 +101,9 @@ import { computed, nextTick, ref } from "vue"
 import type { Book } from "../../html/format"
 import { books, importers } from "../assets/books.json"
 import icon from "../assets/github.svg"
+import qrcode from "../assets/qrcode.png"
 
+const visible = ref(false)
 const importerFilters = importers.map((v) => ({ text: v, value: v }))
 const statusFilters = [
   { text: "已出版", value: 1 },

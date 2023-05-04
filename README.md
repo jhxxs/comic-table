@@ -4,16 +4,16 @@
 
 ## 更新步骤
 
-1. 浏览器打开[`https://mp.weixin.qq.com/s/b_r6Cug9UKFD7PAFhK3SRg`](https://mp.weixin.qq.com/s/b_r6Cug9UKFD7PAFhK3SRg) 另存网页到`html`目录下
+**必要时更新`html/format.ts`的`urls`**
 
-2. 更新`books.json`文件，运行
+1. 更新`books.json`文件，运行
 
 ```sh
 # 读取 html 并 parse，最后将表格数据存到 json
 npm run format
 ```
 
-3. 部署，使用`vercel`自动更新网页
+2. 部署，`vercel`自动更新网页
 
 ## 显示效果
 
