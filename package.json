@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@unocss/reset": "^0.51.8",
+    "@vercel/analytics": "^1.0.1",
     "@vueuse/core": "^10.1.0",
     "element-plus": "^2.3.4",
     "vue": "^3.2.47"
