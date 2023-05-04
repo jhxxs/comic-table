@@ -8,7 +8,9 @@ import zhCn from "element-plus/dist/locale/zh-cn.mjs"
 import "element-plus/theme-chalk/dark/css-vars.css"
 import { inject } from "@vercel/analytics"
 
-inject()
+inject({
+  mode: import.meta.env.DEV ? "development" : "production"
+})
 
 const app = createApp(App)
 
