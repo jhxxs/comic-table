@@ -1494,8 +1494,8 @@
       "status": 0
     },
     {
-      "name": "小津麻理子",
-      "author": ["一个人的悠闲时光"],
+      "name": "一个人的悠闲时光",
+      "author": ["小津麻理子"],
       "importer": "",
       "status": 0
     },
@@ -1514,6 +1514,12 @@
     {
       "name": "玻璃之后",
       "author": ["安东尼娅·巴尼亚多斯"],
+      "importer": "",
+      "status": 0
+    },
+    {
+      "name": "与妖为邻. 1-2",
+      "author": ["野步"],
       "importer": "",
       "status": 0
     },
@@ -1766,12 +1772,6 @@
     {
       "name": "物理魔法使马修1-4",
       "author": ["甲本一"],
-      "importer": "博集天卷",
-      "status": 0
-    },
-    {
-      "name": "与妖为邻. 1-2",
-      "author": ["野步"],
       "importer": "博集天卷",
       "status": 0
     },

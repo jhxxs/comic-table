@@ -55,20 +55,31 @@ fs.writeFile(outputPath, JSON.stringify({ importers, books }, null, 4), () => {
  * 收集书籍信息
  */
 async function getBooks() {
+  const reversed = ["小津麻理子"]
+  const wronged = ["与妖为邻"]
   const tableList = [...document.querySelectorAll("table")]
   const booksList = tableList.reduce<Book[]>(
     (list, table, tableIndex, tableList) => {
       ;[...table.querySelectorAll("tr")].forEach((tr) => {
-        const [nameText = "", authorText = "", importerText = ""] = [
+        let [nameText = "", authorText = "", importerText = ""] = [
           ...tr.querySelectorAll("td")
         ].map((v) => v.textContent ?? "")
 
-        const name = nameText.trim().replace(/\*/g, "")
+        let name = nameText.trim().replace(/\*/g, "")
+        if (reversed.includes(name)) {
+          ;[name, authorText] = [authorText, name]
+        }
+
         const author = authorText
           .replace(/\s/g, "")
           .replace(/[，、;]/g, ",")
           .split(",")
-        const importer = importerText.replace(/\s/g, "")
+
+        let importer = importerText.replace(/\s/g, "")
+
+        if (wronged.findIndex((v) => name.startsWith(v)) != -1) {
+          importer = ""
+        }
 
         if (name !== "作品") {
           list.push({
