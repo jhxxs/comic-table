@@ -80,7 +80,7 @@
           <img :src="icon" class="inline-block w-18px h-18px cursor-pointer" />
         </el-link>
         <el-link
-          href="https://mp.weixin.qq.com/s/b_r6Cug9UKFD7PAFhK3SRg"
+          href="https://mp.weixin.qq.com/s/U6pdDFme4BXH8xUzUf2ytA"
           target="_blank"
           class="ml-12px text-xs"
         >
