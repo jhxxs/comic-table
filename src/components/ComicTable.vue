@@ -38,7 +38,7 @@
         >
           <GrommetIconsGithub />
         </a>
-        {{ { h: tableMaxHeight, height } }}
+
         <span class="ml-12px text-xs cursor-pointer" @click="visible = true">
           <span>来源：xerobot 公众号</span>
         </span>
