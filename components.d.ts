@@ -10,19 +10,14 @@ export {}
 declare module '@vue/runtime-core' {
   export interface GlobalComponents {
     ComicTable: typeof import('./src/components/ComicTable.vue')['default']
-    ElBacktop: typeof import('element-plus/es')['ElBacktop']
-    ElButton: typeof import('element-plus/es')['ElButton']
-    ElCard: typeof import("element-plus/es")["ElCard"]
-    ElDialog: typeof import('element-plus/es')['ElDialog']
-    ElInput: typeof import('element-plus/es')['ElInput']
-    ElLink: typeof import('element-plus/es')['ElLink']
-    ElOption: typeof import('element-plus/es')['ElOption']
-    ElRadio: typeof import("element-plus/es")["ElRadio"]
-    ElRadioButton: typeof import("element-plus/es")["ElRadioButton"]
-    ElRadioGroup: typeof import("element-plus/es")["ElRadioGroup"]
-    ElSelect: typeof import('element-plus/es')['ElSelect']
-    ElTable: typeof import('element-plus/es')['ElTable']
-    ElTableColumn: typeof import('element-plus/es')['ElTableColumn']
-    ElText: typeof import('element-plus/es')['ElText']
+    NBackTop: typeof import('naive-ui')['NBackTop']
+    NButton: typeof import('naive-ui')['NButton']
+    NCard: typeof import('naive-ui')['NCard']
+    NConfigProvider: typeof import('naive-ui')['NConfigProvider']
+    NDataTable: typeof import('naive-ui')['NDataTable']
+    NInput: typeof import('naive-ui')['NInput']
+    NInputGroup: typeof import('naive-ui')['NInputGroup']
+    NModal: typeof import('naive-ui')['NModal']
+    NSelect: typeof import('naive-ui')['NSelect']
   }
 }
