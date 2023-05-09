@@ -64,7 +64,7 @@ import { computed, h, ref } from "vue"
 import GrommetIconsGithub from "~icons/grommet-icons/github"
 import type { Book } from "../../html/format"
 import { books, importers } from "../assets/books.json"
-import qrcode from "../assets/qrcode.png"
+import { qrcode } from "../constant"
 
 const visible = ref(false)
 
