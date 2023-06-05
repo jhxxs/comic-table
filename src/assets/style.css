@@ -4,10 +4,6 @@ html,
   height: 100%;
 }
 
-body {
-  --at-apply: bg-white dark:bg-hex-101014 color-hex-333639 dark:color-white dark:color-opacity-82;
-}
-
 html.dark {
   color-scheme: dark;
 }

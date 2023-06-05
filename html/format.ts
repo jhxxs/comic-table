@@ -23,7 +23,8 @@ const urls = [
   "https://mp.weixin.qq.com/s/f35XBBT4LQGNybvP3eJNsw",
   "https://mp.weixin.qq.com/s/F39T7S30vl-pvqNcHeu6mg",
   "https://mp.weixin.qq.com/s/b_r6Cug9UKFD7PAFhK3SRg",
-  "https://mp.weixin.qq.com/s/U6pdDFme4BXH8xUzUf2ytA"
+  "https://mp.weixin.qq.com/s/U6pdDFme4BXH8xUzUf2ytA",
+  "https://mp.weixin.qq.com/s/V6PcLZnwDsdHUGOffZZboQ"
 ]
 
 const browser = await puppeteer.launch({ headless: "new" })
