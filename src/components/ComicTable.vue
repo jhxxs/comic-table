@@ -80,7 +80,7 @@ const query = ref({
 
 const columns: DataTableColumns<Book> = [
   {
-    title: "📚 作品",
+    title: () => `📚 作品（${tableRef.value?.paginatedData?.length ?? 0}本）`,
     key: "name"
   },
   {
@@ -123,7 +123,11 @@ const booksFiltered = computed(() => {
   return books
 })
 
-const tableRef = ref<DataTableInst>()
+const tableRef = ref<
+  DataTableInst & {
+    paginatedData?: any[]
+  }
+>()
 const { height } = useElementSize(document.body, undefined, {})
 const tableMaxHeight = computed(() => {
   const value = height.value - 24 - 34 - 12 - 32
