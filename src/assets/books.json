@@ -1,37 +1,37 @@
 {
   "importers": [
     "99",
-    "浙美",
-    "长春",
-    "新星",
-    "新经典",
+    "海星创造",
+    "大漫",
     "文景",
+    "科幻世界",
+    "三联",
+    "中青",
+    "联合读创",
+    "风炫",
+    "磨铁",
+    "世图",
+    "吉美",
+    "博集天卷",
+    "台海",
+    "华文天下",
+    "柒海",
+    "浙美",
+    "后浪",
+    "天闻角川",
+    "长春",
+    "读库",
+    "力潮文创",
+    "新经典",
+    "中信",
+    "新星",
+    "次元书馆",
     "文化发展",
     "未读",
-    "天闻角川",
     "森雨漫",
     "人文",
     "千寻文化",
-    "柒海",
-    "联合读创",
-    "力潮文创",
-    "吉美",
-    "后浪",
     "果麦",
-    "读库",
-    "次元书馆",
-    "博集天卷",
-    "海星创造",
-    "大漫",
-    "科幻世界",
-    "三联",
-    "风炫",
-    "中青",
-    "世图",
-    "磨铁",
-    "台海",
-    "华文天下",
-    "中信",
     "青岛出版社",
     "浙江文艺",
     "时代华文",
@@ -72,6 +72,660 @@
       "author": ["新川直司"],
       "importer": "99",
       "status": 1
+    },
+    {
+      "name": "大叔与猫1-4",
+      "author": ["樱井海"],
+      "importer": "",
+      "status": 1
+    },
+    {
+      "name": "在职场和家很不一样的他1-2",
+      "author": ["泡沫"],
+      "importer": "",
+      "status": 1
+    },
+    {
+      "name": "一个人的悠闲时光",
+      "author": ["小津麻理子"],
+      "importer": "",
+      "status": 1
+    },
+    {
+      "name": "完美牛仔的世界观 : 库特拉斯关于爱情、艺术、宇宙的种种思考",
+      "author": ["卡布尼奥"],
+      "importer": "",
+      "status": 1
+    },
+    {
+      "name": "好想消失的日子",
+      "author": ["金镇率"],
+      "importer": "",
+      "status": 1
+    },
+    {
+      "name": "无限试用",
+      "author": ["雅姆"],
+      "importer": "",
+      "status": 1
+    },
+    {
+      "name": "与妖为邻3-",
+      "author": ["野步"],
+      "importer": "",
+      "status": 0
+    },
+    {
+      "name": "与妖为邻. 1-2",
+      "author": ["野步"],
+      "importer": "",
+      "status": 0
+    },
+    {
+      "name": "我爱你 : 全三册",
+      "author": ["姜草"],
+      "importer": "",
+      "status": 0
+    },
+    {
+      "name": "待出版漫画",
+      "author": [""],
+      "importer": "",
+      "status": 0
+    },
+    {
+      "name": "尖帽子的魔法工坊10-",
+      "author": ["白滨鸥"],
+      "importer": "海星创造",
+      "status": 1
+    },
+    {
+      "name": "尖帽子的魔法工坊10",
+      "author": ["白滨鸥"],
+      "importer": "海星创造",
+      "status": 1
+    },
+    {
+      "name": "神探夏洛克：贝尔格莱维亚丑闻",
+      "author": ["史蒂芬·莫法特", "马克·加蒂斯著", "Jay.绘"],
+      "importer": "海星创造",
+      "status": 0
+    },
+    {
+      "name": "尖帽子的魔法工坊",
+      "author": ["白滨鸥"],
+      "importer": "海星创造",
+      "status": 0
+    },
+    {
+      "name": "神秘博士：第十二任博士 恐怖制造者",
+      "author": ["罗比·莫里森等"],
+      "importer": "海星创造",
+      "status": 0
+    },
+    {
+      "name": "神秘博士：第十一任博士 往后余生",
+      "author": ["艾尔·尤因等"],
+      "importer": "海星创造",
+      "status": 0
+    },
+    {
+      "name": "神秘博士：第十任博士 颠覆恐惧",
+      "author": ["尼克·阿巴齐斯等"],
+      "importer": "海星创造",
+      "status": 0
+    },
+    {
+      "name": "龙珠 超全集",
+      "author": ["鸟山明"],
+      "importer": "大漫",
+      "status": 1
+    },
+    {
+      "name": "龙珠公式书永恒",
+      "author": ["鸟山明"],
+      "importer": "大漫",
+      "status": 1
+    },
+    {
+      "name": "龙珠公式书里程碑",
+      "author": ["鸟山明"],
+      "importer": "大漫",
+      "status": 1
+    },
+    {
+      "name": "龙珠　公式书　永恒",
+      "author": ["鸟山明"],
+      "importer": "大漫",
+      "status": 0
+    },
+    {
+      "name": "大奥",
+      "author": ["吉永史"],
+      "importer": "文景",
+      "status": 1
+    },
+    {
+      "name": "昭和元禄落语心中",
+      "author": ["云田晴子"],
+      "importer": "文景",
+      "status": 1
+    },
+    {
+      "name": "科幻历史：图像小说",
+      "author": ["泽维尔·多洛", "贾布里尔·莫里塞特·潘"],
+      "importer": "科幻世界",
+      "status": 1
+    },
+    {
+      "name": "《赛博朋克 2077：强尼何在》",
+      "author": ["巴尔托什·斯泽波尔著", "扬尼斯·米洛诺扬尼斯绘"],
+      "importer": "科幻世界",
+      "status": 1
+    },
+    {
+      "name": "《赛博朋克 2077：你的声音》",
+      "author": ["亚历山德拉·莫蒂卡", "马尔钦·布拉沙著", "达尼耶尔·热热利绘"],
+      "importer": "科幻世界",
+      "status": 1
+    },
+    {
+      "name": "明日边缘",
+      "author": ["小畑健", "樱坂洋"],
+      "importer": "科幻世界",
+      "status": 1
+    },
+    {
+      "name": "极速车魂1-3",
+      "author": ["重野秀一"],
+      "importer": "三联",
+      "status": 1
+    },
+    {
+      "name": "极速车魂",
+      "author": ["重野秀一"],
+      "importer": "三联",
+      "status": 0
+    },
+    {
+      "name": "轻音少女1-4",
+      "author": ["卡其弗莱"],
+      "importer": "中青",
+      "status": 1
+    },
+    {
+      "name": "莎士比亚漫画版",
+      "author": ["史蒂夫·巴洛", "史蒂夫·斯基德摩尔"],
+      "importer": "联合读创",
+      "status": 1
+    },
+    {
+      "name": "蓝箱1-6",
+      "author": ["三浦糀"],
+      "importer": "联合读创",
+      "status": 1
+    },
+    {
+      "name": "我爱你 : 全三册",
+      "author": ["姜草"],
+      "importer": "联合读创",
+      "status": 1
+    },
+    {
+      "name": "书虫公主",
+      "author": ["由唯原作", "椎名咲月角色原案", "喜久田唯漫画"],
+      "importer": "风炫",
+      "status": 0
+    },
+    {
+      "name": "恐龙庇护所",
+      "author": ["木下迪"],
+      "importer": "风炫",
+      "status": 0
+    },
+    {
+      "name": "马格梅尔深海水族馆1-3",
+      "author": ["椙下圣海"],
+      "importer": "风炫",
+      "status": 0
+    },
+    {
+      "name": "马哥梅尔深海水族馆1-3",
+      "author": ["椙下圣海"],
+      "importer": "风炫",
+      "status": 0
+    },
+    {
+      "name": "马哥梅尔深海水族馆",
+      "author": ["椙下圣海"],
+      "importer": "风炫",
+      "status": 0
+    },
+    {
+      "name": "狂女的逆袭",
+      "author": ["闵瑞瑛"],
+      "importer": "磨铁",
+      "status": 1
+    },
+    {
+      "name": "单人房的天使",
+      "author": ["Harada"],
+      "importer": "磨铁",
+      "status": 1
+    },
+    {
+      "name": "兔子即正义1-2",
+      "author": ["井口病院"],
+      "importer": "磨铁",
+      "status": 1
+    },
+    {
+      "name": "虫师",
+      "author": ["漆原友纪"],
+      "importer": "磨铁",
+      "status": 1
+    },
+    {
+      "name": "伊藤润二的猫日记",
+      "author": ["伊藤润二"],
+      "importer": "磨铁",
+      "status": 0
+    },
+    {
+      "name": "赡养上帝",
+      "author": ["刘慈欣", "横山旬"],
+      "importer": "磨铁",
+      "status": 0
+    },
+    {
+      "name": "工作细胞6",
+      "author": ["清水茜"],
+      "importer": "磨铁",
+      "status": 0
+    },
+    {
+      "name": "工作细胞绘本",
+      "author": ["清水茜原著", "牧村久实编绘"],
+      "importer": "磨铁",
+      "status": 0
+    },
+    {
+      "name": "月刊少女野崎君12-13",
+      "author": ["椿泉"],
+      "importer": "世图",
+      "status": 1
+    },
+    {
+      "name": "暗夜·金属. 抵抗军",
+      "author": ["斯科特·斯奈德等著；詹姆斯·提尼恩四世等绘"],
+      "importer": "世图",
+      "status": 0
+    },
+    {
+      "name": "暗夜·金属",
+      "author": ["斯科特·斯奈德等著", "格雷格·卡普洛等绘"],
+      "importer": "世图",
+      "status": 0
+    },
+    {
+      "name": "无主之地3",
+      "author": ["查克·狄克逊等著"],
+      "importer": "世图",
+      "status": 0
+    },
+    {
+      "name": "蝙蝠侠. 红头罩之下",
+      "author": ["贾德·威尼克著", "道格·曼克等绘"],
+      "importer": "世图",
+      "status": 0
+    },
+    {
+      "name": "月刊少女野崎君",
+      "author": ["椿泉"],
+      "importer": "世图",
+      "status": 0
+    },
+    {
+      "name": "守望者前传",
+      "author": ["布莱恩·阿扎瑞罗", "李•贝尔梅霍", "J.G.琼斯"],
+      "importer": "世图",
+      "status": 0
+    },
+    {
+      "name": "哆啦A梦未收录作品1-6",
+      "author": ["藤子・F・不二雄"],
+      "importer": "吉美",
+      "status": 1
+    },
+    {
+      "name": "精灵宝可梦特别篇54-61",
+      "author": ["日下秀憲"],
+      "importer": "吉美",
+      "status": 1
+    },
+    {
+      "name": "哆啦A梦爆笑全集1-12",
+      "author": ["藤子・F・不二雄"],
+      "importer": "吉美",
+      "status": 1
+    },
+    {
+      "name": "哆啦A梦大长篇全彩版",
+      "author": ["藤子・F・不二雄"],
+      "importer": "吉美",
+      "status": 0
+    },
+    {
+      "name": "哆啦A梦深入导读",
+      "author": ["日本小学馆哆啦A梦工作室", "编"],
+      "importer": "吉美",
+      "status": 0
+    },
+    {
+      "name": "精灵宝可梦特别篇62-",
+      "author": ["日下秀憲"],
+      "importer": "吉美",
+      "status": 0
+    },
+    {
+      "name": "哆啦A梦爆笑全集",
+      "author": ["藤子・F・不二雄"],
+      "importer": "吉美",
+      "status": 0
+    },
+    {
+      "name": "哆啦A梦大全集",
+      "author": ["藤子・F・不二雄"],
+      "importer": "吉美",
+      "status": 0
+    },
+    {
+      "name": "哆啦A梦PLUS1-6",
+      "author": ["藤子・F・不二雄"],
+      "importer": "吉美",
+      "status": 0
+    },
+    {
+      "name": "物理魔法使马修1-4",
+      "author": ["甲本一"],
+      "importer": "博集天卷",
+      "status": 1
+    },
+    {
+      "name": "悦动青春1-6",
+      "author": ["高松美咲"],
+      "importer": "博集天卷",
+      "status": 1
+    },
+    {
+      "name": "水浒传1-6",
+      "author": ["横山光辉"],
+      "importer": "博集天卷",
+      "status": 1
+    },
+    {
+      "name": "芬兰人的噩梦",
+      "author": ["卡罗利娜•科尔霍宁"],
+      "importer": "博集天卷",
+      "status": 1
+    },
+    {
+      "name": "转生史莱姆日记",
+      "author": ["伏濑", "柴", "MitzVah"],
+      "importer": "博集天卷",
+      "status": 1
+    },
+    {
+      "name": "物理魔法使马修5-",
+      "author": ["甲本一"],
+      "importer": "博集天卷",
+      "status": 0
+    },
+    {
+      "name": "封神演义7-12",
+      "author": ["横山光辉"],
+      "importer": "博集天卷",
+      "status": 0
+    },
+    {
+      "name": "灵能百分百",
+      "author": ["one"],
+      "importer": "博集天卷",
+      "status": 0
+    },
+    {
+      "name": "悦动青春7-",
+      "author": ["高松美咲"],
+      "importer": "博集天卷",
+      "status": 0
+    },
+    {
+      "name": "炎炎消防队11-",
+      "author": ["大久保笃"],
+      "importer": "博集天卷",
+      "status": 0
+    },
+    {
+      "name": "悦动青春",
+      "author": ["高松美咲"],
+      "importer": "博集天卷",
+      "status": 0
+    },
+    {
+      "name": "封神演义1-6",
+      "author": ["横山光辉"],
+      "importer": "博集天卷",
+      "status": 0
+    },
+    {
+      "name": "滚石乐队 : 漫画版",
+      "author": ["塞卡", "巴斯特"],
+      "importer": "台海",
+      "status": 0
+    },
+    {
+      "name": "鲍勃·马利 : 漫画版",
+      "author": ["盖特", "布莱特曼"],
+      "importer": "台海",
+      "status": 0
+    },
+    {
+      "name": "迈克尔·杰克逊 : 漫画版",
+      "author": ["塞卡", "巴斯特"],
+      "importer": "台海",
+      "status": 0
+    },
+    {
+      "name": "披头士乐队：漫画版",
+      "author": ["梅布尔", "加埃"],
+      "importer": "台海",
+      "status": 0
+    },
+    {
+      "name": "地。关于地球的运动1-4",
+      "author": ["鱼丰"],
+      "importer": "华文天下",
+      "status": 1
+    },
+    {
+      "name": "levius",
+      "author": ["中田春弥"],
+      "importer": "华文天下",
+      "status": 0
+    },
+    {
+      "name": "火凤燎原",
+      "author": ["陈某"],
+      "importer": "华文天下",
+      "status": 0
+    },
+    {
+      "name": "平屋小品",
+      "author": ["真造圭伍"],
+      "importer": "华文天下",
+      "status": 0
+    },
+    {
+      "name": "地缚少年花子君",
+      "author": ["AIDAIRO"],
+      "importer": "华文天下",
+      "status": 0
+    },
+    {
+      "name": "地。关于地球的运动5-8",
+      "author": ["鱼丰"],
+      "importer": "华文天下",
+      "status": 0
+    },
+    {
+      "name": "地缚少年花子君1-5",
+      "author": ["间色"],
+      "importer": "华文天下",
+      "status": 0
+    },
+    {
+      "name": "一拳超人6-10",
+      "author": ["one", "村田雄介"],
+      "importer": "柒海",
+      "status": 1
+    },
+    {
+      "name": "夏日重现1-13",
+      "author": ["田中靖规"],
+      "importer": "柒海",
+      "status": 1
+    },
+    {
+      "name": "游戏王文库版1-11",
+      "author": ["高桥和希"],
+      "importer": "柒海",
+      "status": 1
+    },
+    {
+      "name": "咒术回战11-14",
+      "author": ["芥见下下"],
+      "importer": "柒海",
+      "status": 1
+    },
+    {
+      "name": "一拳超人1-5",
+      "author": ["one原作", "村田雄介画"],
+      "importer": "柒海",
+      "status": 1
+    },
+    {
+      "name": "辉夜大小姐11-18",
+      "author": ["赤坂明"],
+      "importer": "柒海",
+      "status": 1
+    },
+    {
+      "name": "怪兽8号3-6",
+      "author": ["松本直也"],
+      "importer": "柒海",
+      "status": 1
+    },
+    {
+      "name": "航海王总集篇甄藏版",
+      "author": ["尾田荣一郎"],
+      "importer": "柒海",
+      "status": 0
+    },
+    {
+      "name": "排球少年全彩版",
+      "author": ["古馆春一"],
+      "importer": "柒海",
+      "status": 0
+    },
+    {
+      "name": "网球王子完全版",
+      "author": ["许斐刚"],
+      "importer": "柒海",
+      "status": 0
+    },
+    {
+      "name": "游戏王文库版",
+      "author": ["高桥和希"],
+      "importer": "柒海",
+      "status": 0
+    },
+    {
+      "name": "一拳超人11-20",
+      "author": ["one", "村田雄介"],
+      "importer": "柒海",
+      "status": 0
+    },
+    {
+      "name": "排球少年25-",
+      "author": ["古馆春一"],
+      "importer": "柒海",
+      "status": 0
+    },
+    {
+      "name": "咒术回战15-",
+      "author": ["芥见下下"],
+      "importer": "柒海",
+      "status": 0
+    },
+    {
+      "name": "辉夜大小姐19-",
+      "author": ["赤坂明"],
+      "importer": "柒海",
+      "status": 0
+    },
+    {
+      "name": "怪兽八号7-",
+      "author": ["松本直也"],
+      "importer": "柒海",
+      "status": 0
+    },
+    {
+      "name": "食戟的山智",
+      "author": ["尾田荣一郎原作；佐伯俊绘；附田祐斗编；森崎友纪协助"],
+      "importer": "柒海",
+      "status": 0
+    },
+    {
+      "name": "一拳超人6-20",
+      "author": ["one", "村田雄介"],
+      "importer": "柒海",
+      "status": 0
+    },
+    {
+      "name": "咒术回战13-",
+      "author": ["芥见下下"],
+      "importer": "柒海",
+      "status": 0
+    },
+    {
+      "name": "一拳超人1-10",
+      "author": ["one", "村田雄介"],
+      "importer": "柒海",
+      "status": 0
+    },
+    {
+      "name": "辉夜大小姐18-",
+      "author": ["赤坂明"],
+      "importer": "柒海",
+      "status": 0
+    },
+    {
+      "name": "一拳超人11-",
+      "author": ["one", "村田雄介"],
+      "importer": "柒海",
+      "status": 0
+    },
+    {
+      "name": "咒术回战10-",
+      "author": ["芥见下下"],
+      "importer": "柒海",
+      "status": 0
+    },
+    {
+      "name": "怪兽八号7-8",
+      "author": ["松本直也"],
+      "importer": "柒海",
+      "status": 0
     },
     {
       "name": "航海王99-101",
@@ -140,489 +794,297 @@
       "status": 0
     },
     {
-      "name": "机动奥特曼1-16",
-      "author": ["清水荣一", "下口智裕"],
-      "importer": "长春",
+      "name": "蓝莓上尉3：玉面阎罗",
+      "author": ["墨比斯", "让-米歇尔·沙利耶"],
+      "importer": "后浪",
       "status": 1
     },
     {
-      "name": "命运强手1-15",
-      "author": ["井上雄彦"],
-      "importer": "长春",
+      "name": "德罗西大街",
+      "author": ["威尔·艾斯纳"],
+      "importer": "后浪",
       "status": 1
     },
     {
-      "name": "来源：灌篮高手动画电影设定集",
-      "author": ["井上雄彦"],
-      "importer": "长春",
+      "name": "猫眼",
+      "author": ["墨比斯绘", "亚历桑德罗·佐杜洛夫斯基编绘"],
+      "importer": "后浪",
       "status": 1
     },
     {
-      "name": "灌篮高手再跳跃",
-      "author": ["井上雄彦"],
-      "importer": "长春",
+      "name": "门外",
+      "author": ["亚科·阿霍宁编", "劳里·阿霍宁绘"],
+      "importer": "后浪",
       "status": 1
     },
     {
-      "name": "名侦探柯南100",
-      "author": ["青山刚昌"],
-      "importer": "长春",
+      "name": "合金男爵3",
+      "author": ["亚历桑德罗·佐杜洛夫斯基", "胡安·希门尼斯"],
+      "importer": "后浪",
       "status": 1
     },
     {
-      "name": "入间同学入魔了7-12",
-      "author": ["西修"],
-      "importer": "长春",
+      "name": "费里尼在罗马",
+      "author": ["蒂托·阿尔瓦"],
+      "importer": "后浪",
       "status": 1
     },
     {
-      "name": "名侦探柯南：犯人犯泽先生",
-      "author": ["神庭麻由子", "青山刚昌"],
-      "importer": "长春",
-      "status": 0
-    },
-    {
-      "name": "鸡斗士",
-      "author": ["樱谷秀", "HEROS"],
-      "importer": "长春",
-      "status": 0
-    },
-    {
-      "name": "樱桃小丸子",
-      "author": ["樱桃子"],
-      "importer": "长春",
-      "status": 0
-    },
-    {
-      "name": "黑羽快斗5",
-      "author": ["青山刚昌"],
-      "importer": "长春",
-      "status": 0
-    },
-    {
-      "name": "名侦探柯南工藤新—&毛利兰绝密档案",
-      "author": ["青山刚昌"],
-      "importer": "长春",
-      "status": 0
-    },
-    {
-      "name": "名侦探柯南灰原哀绝密档案",
-      "author": ["青山刚昌"],
-      "importer": "长春",
-      "status": 0
-    },
-    {
-      "name": "名侦探柯南赤井秀—&安室透绝密档案",
-      "author": ["青山刚昌"],
-      "importer": "长春",
-      "status": 0
-    },
-    {
-      "name": "名侦探柯南服部平次&远山和叶绝密档案",
-      "author": ["青山刚昌"],
-      "importer": "长春",
-      "status": 0
-    },
-    {
-      "name": "名侦探柯南安室透/波本/降谷零绝密档案",
-      "author": ["青山刚昌"],
-      "importer": "长春",
-      "status": 0
-    },
-    {
-      "name": "名侦探柯南101-",
-      "author": ["青山刚昌"],
-      "importer": "长春",
-      "status": 0
-    },
-    {
-      "name": "擅长捉弄的高木同学",
-      "author": ["山本崇一郎"],
-      "importer": "长春",
-      "status": 0
-    },
-    {
-      "name": "假面骑士空我",
-      "author": ["石森章太郎"],
-      "importer": "长春",
-      "status": 0
-    },
-    {
-      "name": "动物狂想曲",
-      "author": ["板垣巴留"],
-      "importer": "长春",
-      "status": 0
-    },
-    {
-      "name": "入间同学入魔了",
-      "author": ["西修"],
-      "importer": "长春",
-      "status": 0
-    },
-    {
-      "name": "石纪元",
-      "author": ["稲垣理一郎"],
-      "importer": "长春",
-      "status": 0
-    },
-    {
-      "name": "剧场版哆啦A梦：大雄与天空的理想乡",
-      "author": ["藤子・F・不二雄"],
-      "importer": "长春",
-      "status": 0
-    },
-    {
-      "name": "哆啦A梦剧场抓帧版",
-      "author": ["藤子・F・不二雄"],
-      "importer": "长春",
-      "status": 0
-    },
-    {
-      "name": "命运强手",
-      "author": ["井上雄彦"],
-      "importer": "长春",
-      "status": 0
-    },
-    {
-      "name": "灌篮高手 : 动画电影纪念版",
-      "author": ["井上雄彦"],
-      "importer": "长春",
-      "status": 0
-    },
-    {
-      "name": "灌篮高手完全版精装",
-      "author": ["井上雄彦"],
-      "importer": "长春",
-      "status": 0
-    },
-    {
-      "name": "灌篮高手完全版平装",
-      "author": ["井上雄彦"],
-      "importer": "长春",
-      "status": 0
-    },
-    {
-      "name": "机动奥特曼17-",
-      "author": ["清水荣一", "下口智裕"],
-      "importer": "长春",
-      "status": 0
-    },
-    {
-      "name": "机动奥特曼",
-      "author": ["清水荣一", "下口智裕"],
-      "importer": "长春",
-      "status": 0
-    },
-    {
-      "name": "哆啦A梦剧场版(抓帧)",
-      "author": ["藤子・F・不二雄"],
-      "importer": "长春",
-      "status": 0
-    },
-    {
-      "name": "名侦探柯南",
-      "author": ["青山刚昌"],
-      "importer": "长春",
-      "status": 0
-    },
-    {
-      "name": "灌篮高手JUMP",
-      "author": ["井上雄彦"],
-      "importer": "长春",
-      "status": 0
-    },
-    {
-      "name": "神探夏洛克4-5",
-      "author": ["史蒂文•莫法特和马克•加蒂斯改编", "Jay.绘制"],
-      "importer": "新星",
+      "name": "舌尖上的法国：夏长秋收",
+      "author": ["伊夫·康德伯德编", "雅克·费朗代绘"],
+      "importer": "后浪",
       "status": 1
     },
     {
-      "name": "山与食欲与我5-8",
-      "author": ["信浓川日出雄"],
-      "importer": "新星",
+      "name": "小恐龙阿贡1-7",
+      "author": ["田中政志"],
+      "importer": "后浪",
       "status": 1
     },
     {
-      "name": "山与食欲与我1-4",
-      "author": ["信浓川日出雄"],
-      "importer": "新星",
+      "name": "老家伙 : 当年情",
+      "author": ["威尔弗里德·卢帕诺编", "保罗·科埃绘"],
+      "importer": "后浪",
       "status": 1
     },
     {
-      "name": "蓦然回首",
-      "author": ["藤本树"],
-      "importer": "新星",
+      "name": "黄昏降临时",
+      "author": ["热雷米·佩罗多"],
+      "importer": "后浪",
       "status": 1
     },
     {
-      "name": "天国大魔镜",
-      "author": ["石黑正数"],
-      "importer": "新星",
-      "status": 0
+      "name": "春分秋分",
+      "author": ["西里尔·佩德罗萨"],
+      "importer": "后浪",
+      "status": 1
     },
     {
-      "name": "十角馆事件2-",
-      "author": ["绫辻行人", "清原纮"],
-      "importer": "新星",
-      "status": 0
+      "name": "一秒钟",
+      "author": ["海贝卡•朵特梅"],
+      "importer": "后浪",
+      "status": 1
     },
     {
-      "name": "山与食欲与我9-",
-      "author": ["信浓川日出雄"],
-      "importer": "新星",
-      "status": 0
+      "name": "黑猫侦探6",
+      "author": ["胡安·卡纳莱斯", "胡安霍·瓜尔尼多"],
+      "importer": "后浪",
+      "status": 1
     },
     {
-      "name": "人间失格",
-      "author": ["伊藤润二"],
-      "importer": "新星",
-      "status": 0
+      "name": "冰岛萨迦 : 格里姆尔传奇",
+      "author": ["热雷米·莫罗"],
+      "importer": "后浪",
+      "status": 1
     },
     {
-      "name": "三国志11-30",
-      "author": ["横山光辉"],
-      "importer": "新星",
-      "status": 0
-    },
-    {
-      "name": "乔乔的奇妙冒险49-63",
+      "name": "岸边露伴在卢浮",
       "author": ["荒木飞吕彦"],
-      "importer": "新星",
-      "status": 0
-    },
-    {
-      "name": "十角馆事件",
-      "author": ["绫辻行人", "清原纮"],
-      "importer": "新星",
-      "status": 0
-    },
-    {
-      "name": "山与食欲与我5-",
-      "author": ["信浓川日出雄"],
-      "importer": "新星",
-      "status": 0
-    },
-    {
-      "name": "虫与歌",
-      "author": ["市川春子"],
-      "importer": "新经典",
+      "importer": "后浪",
       "status": 1
     },
     {
-      "name": "level e1-3",
-      "author": ["富坚义博"],
-      "importer": "新经典",
+      "name": "鼠族",
+      "author": ["阿尔特·斯皮格尔曼"],
+      "importer": "后浪",
       "status": 1
     },
     {
-      "name": "鸟山明O作剧场",
-      "author": ["鸟山明"],
-      "importer": "新经典",
+      "name": "一座城市的一天 : 班加罗尔日与夜",
+      "author": ["西蒙·拉穆雷"],
+      "importer": "后浪",
       "status": 1
     },
     {
-      "name": "不必为我歌唱",
-      "author": ["米歇尔·拉巴利亚蒂"],
-      "importer": "新经典",
+      "name": "少爷的时代1-5",
+      "author": ["谷口治郎", "关川夏央"],
+      "importer": "后浪",
       "status": 1
     },
     {
-      "name": "12色物语",
-      "author": ["坂口尚"],
-      "importer": "新经典",
+      "name": "竹光侍",
+      "author": ["松本大洋", "永福一成"],
+      "importer": "后浪",
       "status": 1
     },
     {
-      "name": "翻面的黑猫",
-      "author": ["高野文子"],
-      "importer": "新经典",
+      "name": "上升",
+      "author": ["马克-安托万·马修"],
+      "importer": "后浪",
       "status": 1
     },
     {
-      "name": "我的辽阔天地",
-      "author": ["卡特琳·默里斯"],
-      "importer": "新经典",
+      "name": "缄默",
+      "author": ["芭芭拉·耶林"],
+      "importer": "后浪",
       "status": 1
     },
     {
-      "name": "牧羊少年奇幻之旅",
-      "author": ["保罗·柯艾略"],
-      "importer": "新经典",
-      "status": 1
-    },
-    {
-      "name": "当尘埃落尽",
-      "author": ["米歇尔·拉巴利亚蒂"],
-      "importer": "新经典",
-      "status": 1
-    },
-    {
-      "name": "如果我消失了",
-      "author": ["米莱恩·马莱"],
-      "importer": "新经典",
+      "name": "奥尔巴尼和斯特奇斯：英国三部曲",
+      "author": ["里维埃·弗朗索瓦", "弗洛克"],
+      "importer": "后浪",
       "status": 0
     },
     {
-      "name": "跳动少年",
-      "author": ["莫莉·门多萨"],
-      "importer": "新经典",
-      "status": 0
-    },
-    {
-      "name": "奥林匹斯传说",
-      "author": ["蕾切尔·斯迈思"],
-      "importer": "新经典",
-      "status": 0
-    },
-    {
-      "name": "为了哆啦A梦：藤子·F.不二雄的漫画技法",
-      "author": ["藤子·F.不二雄"],
-      "importer": "新经典",
-      "status": 0
-    },
-    {
-      "name": "照明商店",
-      "author": ["姜草"],
-      "importer": "新经典",
-      "status": 0
-    },
-    {
-      "name": "若水沿流，落入海",
-      "author": ["田岛列岛"],
-      "importer": "新经典",
-      "status": 0
-    },
-    {
-      "name": "我很正常",
+      "name": "那一天发生的超级不可思议事件",
       "author": ["宫崎夏次系"],
-      "importer": "新经典",
+      "importer": "后浪",
       "status": 0
     },
     {
-      "name": "为你着迷",
-      "author": ["和山山"],
-      "importer": "新经典",
+      "name": "梦之囚徒：超级大梦",
+      "author": ["马克-安托万·马修"],
+      "importer": "后浪",
       "status": 0
     },
     {
-      "name": "去唱卡拉OK吧",
-      "author": ["和山山"],
-      "importer": "新经典",
+      "name": "凹凸：重写的人",
+      "author": ["马克-安托万·马修"],
+      "importer": "后浪",
       "status": 0
     },
     {
-      "name": "女校之星",
-      "author": ["和山山"],
-      "importer": "新经典",
+      "name": "宝石之国",
+      "author": ["市川春子"],
+      "importer": "后浪",
       "status": 0
     },
     {
-      "name": "使女的故事",
-      "author": ["玛格丽特·阿特伍德", "勒内·诺特"],
-      "importer": "新经典",
+      "name": "漫画游戏史",
+      "author": ["爱德华·罗斯"],
+      "importer": "后浪",
       "status": 0
     },
     {
-      "name": "东京平常日",
-      "author": ["松本大洋"],
-      "importer": "新经典",
+      "name": "来自地狱",
+      "author": ["阿兰·摩尔"],
+      "importer": "后浪",
       "status": 0
     },
     {
-      "name": "乐与路",
-      "author": ["浅野一二⚪"],
-      "importer": "新经典",
+      "name": "被子",
+      "author": ["克雷格·汤普森"],
+      "importer": "后浪",
       "status": 0
     },
     {
-      "name": "别对映像研出手6-7",
-      "author": ["大童澄瞳"],
-      "importer": "新经典",
+      "name": "阿扎克",
+      "author": ["莫比斯"],
+      "importer": "后浪",
       "status": 0
     },
     {
-      "name": "一周的朋友1-10",
-      "author": ["叶月抹茶"],
-      "importer": "新经典",
+      "name": "解读鼠族",
+      "author": ["希拉里·丘特", "阿尔特·斯皮格曼"],
+      "importer": "后浪",
       "status": 0
     },
     {
-      "name": "写写画画1-5",
-      "author": ["东村明子"],
-      "importer": "新经典",
+      "name": "哥谭重案组4",
+      "author": ["艾德·布鲁贝克", "格雷格·卢卡", "迈克尔·拉克"],
+      "importer": "后浪",
       "status": 0
     },
     {
-      "name": "青春方程式",
-      "author": ["安达充"],
-      "importer": "新经典",
+      "name": "手冢治虫杰出手稿集·漫画篇",
+      "author": ["手冢治虫"],
+      "importer": "后浪",
       "status": 0
     },
     {
-      "name": "海街日记1-9",
-      "author": ["吉田秋生"],
-      "importer": "新经典",
+      "name": "蝙蝠侠：英勇无畏",
+      "author": ["马特·韦恩", "安迪·苏里亚诺", "丹·戴维斯"],
+      "importer": "后浪",
       "status": 0
     },
     {
-      "name": "别对映像研出手6-",
-      "author": ["大童澄瞳"],
-      "importer": "新经典",
+      "name": "蝙蝠侠：哥谭大冒险",
+      "author": ["瑞克·伯切特", "特里·比蒂", "李·洛里奇"],
+      "importer": "后浪",
       "status": 0
     },
     {
-      "name": "铳梦",
-      "author": ["木城幸人"],
-      "importer": "新经典",
+      "name": "黑狗：保罗·纳什之梦",
+      "author": ["戴夫·麦基恩"],
+      "importer": "后浪",
       "status": 0
     },
     {
-      "name": "别对印像研出手6-7",
-      "author": ["大童澄瞳"],
-      "importer": "新经典",
+      "name": "与神的契约",
+      "author": ["威尔·艾斯纳"],
+      "importer": "后浪",
       "status": 0
     },
     {
-      "name": "昭和元禄落语心中",
-      "author": ["云田晴子"],
-      "importer": "文景",
-      "status": 1
-    },
-    {
-      "name": "大奥",
-      "author": ["吉永史"],
-      "importer": "文景",
+      "name": "红男爵",
+      "author": ["普尔塔·卡洛斯"],
+      "importer": "后浪",
       "status": 0
     },
     {
-      "name": "S跟我说……",
-      "author": ["济比"],
-      "importer": "文化发展",
-      "status": 1
+      "name": "第一台电脑",
+      "author": ["西德妮·帕多瓦"],
+      "importer": "后浪",
+      "status": 0
     },
     {
-      "name": "费曼",
-      "author": ["吉姆·奥塔维亚尼", "利兰·迈里克"],
-      "importer": "未读",
-      "status": 1
+      "name": "死囚徒亨利",
+      "author": ["克里斯多夫·夏布特"],
+      "importer": "后浪",
+      "status": 0
     },
     {
-      "name": "爱因斯坦",
-      "author": ["吉姆·奥塔维亚尼", "杰雷林·戴伊"],
-      "importer": "未读",
-      "status": 1
+      "name": "美人",
+      "author": ["法比安·韦尔曼", "凯拉斯科多"],
+      "importer": "后浪",
+      "status": 0
     },
     {
-      "name": "漫画霍金传",
-      "author": ["吉姆·奥塔维亚尼", "利兰·迈里克"],
-      "importer": "未读",
-      "status": 1
+      "name": "睡魔6",
+      "author": ["尼尔·盖曼", "肖恩·马努斯"],
+      "importer": "后浪",
+      "status": 0
     },
     {
-      "name": "霍金",
-      "author": ["吉姆·奥塔维亚尼", "利兰·迈里克"],
-      "importer": "未读",
+      "name": "合金男爵4",
+      "author": ["亚历桑德罗·佐杜洛夫斯基", "胡安·希门尼斯"],
+      "importer": "后浪",
+      "status": 0
+    },
+    {
+      "name": "怪医黑杰克1-6",
+      "author": ["手冢治虫"],
+      "importer": "后浪",
+      "status": 0
+    },
+    {
+      "name": "神之山岭1-5",
+      "author": ["谷口治郎", "梦枕貘"],
+      "importer": "后浪",
+      "status": 0
+    },
+    {
+      "name": "普雷维尔不是诗人",
+      "author": ["埃尔韦·布里编", "克里斯蒂安·卡约绘"],
+      "importer": "后浪",
+      "status": 0
+    },
+    {
+      "name": "蓝莓上尉3：刺杀总统的阴谋",
+      "author": ["墨比斯", "让-米歇尔·沙利耶"],
+      "importer": "后浪",
+      "status": 0
+    },
+    {
+      "name": "小恐龙阿贡",
+      "author": ["田中政志"],
+      "importer": "后浪",
+      "status": 0
+    },
+    {
+      "name": "英国三部曲",
+      "author": ["里维埃·弗朗索瓦", "弗洛克"],
+      "importer": "后浪",
       "status": 0
     },
     {
@@ -806,6 +1268,18 @@
       "status": 1
     },
     {
+      "name": "每天都是御主的好日子！：逢坂TAMA Fate/Grand Order作品集",
+      "author": ["逢坂TAMA编绘；TYPE-MOON原作"],
+      "importer": "天闻角川",
+      "status": 0
+    },
+    {
+      "name": "想要成为影之实力者！1-2",
+      "author": ["坂野杏梨编绘；逢泽大介原作"],
+      "importer": "天闻角川",
+      "status": 0
+    },
+    {
       "name": "150cm life 3",
       "author": ["高木直子编绘"],
       "importer": "天闻角川",
@@ -836,8 +1310,20 @@
       "status": 0
     },
     {
-      "name": "文豪野犬",
-      "author": ["卡夫卡原作", "春河35"],
+      "name": "文豪野犬官方精选漫画集. 晓/凛/花/丽/奏",
+      "author": ["朝雾卡夫卡原作；春河35角色设计；日本YOUNGACE编辑部编"],
+      "importer": "天闻角川",
+      "status": 0
+    },
+    {
+      "name": "文豪野犬 汪！. 10",
+      "author": ["金井猫编绘；朝雾卡夫卡原作"],
+      "importer": "天闻角川",
+      "status": 0
+    },
+    {
+      "name": "文豪野犬23",
+      "author": ["朝雾卡夫卡原作", "春河35编绘"],
       "importer": "天闻角川",
       "status": 0
     },
@@ -848,7 +1334,7 @@
       "status": 0
     },
     {
-      "name": "《十三机兵防卫圈 官方漫画精选集》",
+      "name": "十三机兵防卫圈 官方漫画精选集",
       "author": ["片桐郁实", "梵辛", "晴濑弘树等"],
       "importer": "天闻角川",
       "status": 0
@@ -902,12 +1388,6 @@
       "status": 0
     },
     {
-      "name": "新世纪福音战士爱藏版1-7",
-      "author": ["贞本义行", "khara·GAINAX"],
-      "importer": "天闻角川",
-      "status": 0
-    },
-    {
       "name": "蓝色禁区3-4",
       "author": ["金城宗幸", "野村优介"],
       "importer": "天闻角川",
@@ -952,6 +1432,24 @@
     {
       "name": "迷宫饭",
       "author": ["九井谅子"],
+      "importer": "天闻角川",
+      "status": 0
+    },
+    {
+      "name": "新世纪福音战士爱藏版1-7",
+      "author": ["贞本义行", "khara·GAINAX"],
+      "importer": "天闻角川",
+      "status": 0
+    },
+    {
+      "name": "文豪野犬",
+      "author": ["卡夫卡原作", "春河35"],
+      "importer": "天闻角川",
+      "status": 0
+    },
+    {
+      "name": "《十三机兵防卫圈 官方漫画精选集》",
+      "author": ["片桐郁实", "梵辛", "晴濑弘树等"],
       "importer": "天闻角川",
       "status": 0
     },
@@ -1028,622 +1526,196 @@
       "status": 0
     },
     {
-      "name": "不要离开我",
-      "author": ["罗斯玛丽·瓦莱罗·奥康奈尔"],
-      "importer": "森雨漫",
+      "name": "机动奥特曼1-16",
+      "author": ["清水荣一", "下口智裕"],
+      "importer": "长春",
       "status": 1
     },
     {
-      "name": "卓克",
-      "author": ["邱玉"],
-      "importer": "森雨漫",
+      "name": "命运强手1-15",
+      "author": ["井上雄彦"],
+      "importer": "长春",
       "status": 1
     },
     {
-      "name": "艾玛的味觉",
-      "author": ["艾玛纽埃尔·迈松纳夫", "茱莉娅·帕夫洛维奇著", "高浜宽绘"],
-      "importer": "人文",
+      "name": "来源：灌篮高手动画电影设定集",
+      "author": ["井上雄彦"],
+      "importer": "长春",
       "status": 1
     },
     {
-      "name": "玻璃之后",
-      "author": ["安东尼娅·巴尼亚多斯"],
-      "importer": "千寻文化",
+      "name": "灌篮高手再跳跃",
+      "author": ["井上雄彦"],
+      "importer": "长春",
       "status": 1
     },
     {
-      "name": "一拳超人6-10",
-      "author": ["one", "村田雄介"],
-      "importer": "柒海",
+      "name": "名侦探柯南100",
+      "author": ["青山刚昌"],
+      "importer": "长春",
       "status": 1
     },
     {
-      "name": "夏日重现1-13",
-      "author": ["田中靖规"],
-      "importer": "柒海",
+      "name": "入间同学入魔了7-12",
+      "author": ["西修"],
+      "importer": "长春",
       "status": 1
     },
     {
-      "name": "游戏王文库版1-11",
-      "author": ["高桥和希"],
-      "importer": "柒海",
-      "status": 1
-    },
-    {
-      "name": "咒术回战11-14",
-      "author": ["芥见下下"],
-      "importer": "柒海",
-      "status": 1
-    },
-    {
-      "name": "一拳超人1-5",
-      "author": ["one原作", "村田雄介画"],
-      "importer": "柒海",
-      "status": 1
-    },
-    {
-      "name": "辉夜大小姐11-18",
-      "author": ["赤坂明"],
-      "importer": "柒海",
-      "status": 1
-    },
-    {
-      "name": "怪兽8号3-6",
-      "author": ["松本直也"],
-      "importer": "柒海",
-      "status": 1
-    },
-    {
-      "name": "食戟的山智",
-      "author": ["尾田荣一郎", "佐伯俊", "附田祐斗", "森绮友纪"],
-      "importer": "柒海",
+      "name": "名侦探柯南：犯人犯泽先生",
+      "author": ["神庭麻由子", "青山刚昌"],
+      "importer": "长春",
       "status": 0
     },
     {
-      "name": "航海王总集篇甄藏版",
-      "author": ["尾田荣一郎"],
-      "importer": "柒海",
+      "name": "鸡斗士",
+      "author": ["樱谷秀", "HEROS"],
+      "importer": "长春",
       "status": 0
     },
     {
-      "name": "排球少年全彩版",
-      "author": ["古馆春一"],
-      "importer": "柒海",
+      "name": "樱桃小丸子",
+      "author": ["樱桃子"],
+      "importer": "长春",
       "status": 0
     },
     {
-      "name": "网球王子完全版",
-      "author": ["许斐刚"],
-      "importer": "柒海",
+      "name": "黑羽快斗5",
+      "author": ["青山刚昌"],
+      "importer": "长春",
       "status": 0
     },
     {
-      "name": "游戏王文库版",
-      "author": ["高桥和希"],
-      "importer": "柒海",
+      "name": "名侦探柯南工藤新—&毛利兰绝密档案",
+      "author": ["青山刚昌"],
+      "importer": "长春",
       "status": 0
     },
     {
-      "name": "一拳超人11-20",
-      "author": ["one", "村田雄介"],
-      "importer": "柒海",
+      "name": "名侦探柯南灰原哀绝密档案",
+      "author": ["青山刚昌"],
+      "importer": "长春",
       "status": 0
     },
     {
-      "name": "排球少年25-",
-      "author": ["古馆春一"],
-      "importer": "柒海",
+      "name": "名侦探柯南赤井秀—&安室透绝密档案",
+      "author": ["青山刚昌"],
+      "importer": "长春",
       "status": 0
     },
     {
-      "name": "咒术回战15-",
-      "author": ["芥见下下"],
-      "importer": "柒海",
+      "name": "名侦探柯南服部平次&远山和叶绝密档案",
+      "author": ["青山刚昌"],
+      "importer": "长春",
       "status": 0
     },
     {
-      "name": "辉夜大小姐19-",
-      "author": ["赤坂明"],
-      "importer": "柒海",
+      "name": "名侦探柯南安室透/波本/降谷零绝密档案",
+      "author": ["青山刚昌"],
+      "importer": "长春",
       "status": 0
     },
     {
-      "name": "怪兽八号7-",
-      "author": ["松本直也"],
-      "importer": "柒海",
+      "name": "名侦探柯南101-",
+      "author": ["青山刚昌"],
+      "importer": "长春",
       "status": 0
     },
     {
-      "name": "一拳超人6-20",
-      "author": ["one", "村田雄介"],
-      "importer": "柒海",
+      "name": "擅长捉弄的高木同学",
+      "author": ["山本崇一郎"],
+      "importer": "长春",
       "status": 0
     },
     {
-      "name": "咒术回战13-",
-      "author": ["芥见下下"],
-      "importer": "柒海",
+      "name": "假面骑士空我",
+      "author": ["石森章太郎"],
+      "importer": "长春",
       "status": 0
     },
     {
-      "name": "一拳超人1-10",
-      "author": ["one", "村田雄介"],
-      "importer": "柒海",
+      "name": "动物狂想曲",
+      "author": ["板垣巴留"],
+      "importer": "长春",
       "status": 0
     },
     {
-      "name": "辉夜大小姐18-",
-      "author": ["赤坂明"],
-      "importer": "柒海",
+      "name": "入间同学入魔了",
+      "author": ["西修"],
+      "importer": "长春",
       "status": 0
     },
     {
-      "name": "一拳超人11-",
-      "author": ["one", "村田雄介"],
-      "importer": "柒海",
+      "name": "石纪元",
+      "author": ["稲垣理一郎"],
+      "importer": "长春",
       "status": 0
     },
     {
-      "name": "咒术回战10-",
-      "author": ["芥见下下"],
-      "importer": "柒海",
-      "status": 0
-    },
-    {
-      "name": "怪兽八号7-8",
-      "author": ["松本直也"],
-      "importer": "柒海",
-      "status": 0
-    },
-    {
-      "name": "我爱你 : 全三册",
-      "author": ["姜草"],
-      "importer": "联合读创",
-      "status": 1
-    },
-    {
-      "name": "莎士比亚漫画版",
-      "author": ["史蒂夫·巴洛", "史蒂夫·斯基德摩尔"],
-      "importer": "联合读创",
-      "status": 0
-    },
-    {
-      "name": "蓝箱1-6",
-      "author": ["三浦糀"],
-      "importer": "联合读创",
-      "status": 0
-    },
-    {
-      "name": "关于我变成史莱姆这档事1-5",
-      "author": ["伏濑", "川上泰树"],
-      "importer": "力潮文创",
-      "status": 1
-    },
-    {
-      "name": "世界史侦探柯南3-4",
-      "author": ["青山刚昌原作"],
-      "importer": "力潮文创",
-      "status": 1
-    },
-    {
-      "name": "致不灭的你6-10",
-      "author": ["大今良时"],
-      "importer": "力潮文创",
-      "status": 1
-    },
-    {
-      "name": "夏目友人帐19-",
-      "author": ["绿川幸"],
-      "importer": "力潮文创",
-      "status": 0
-    },
-    {
-      "name": "世界史侦探柯南5-6",
-      "author": ["青山刚昌原作"],
-      "importer": "力潮文创",
-      "status": 0
-    },
-    {
-      "name": "关于我变成史莱姆这档事6-",
-      "author": ["伏濑", "川上泰树"],
-      "importer": "力潮文创",
-      "status": 0
-    },
-    {
-      "name": "阿宅的恋爱真难",
-      "author": ["藤田"],
-      "importer": "力潮文创",
-      "status": 0
-    },
-    {
-      "name": "虚构推理",
-      "author": ["城平京", "片濑茶柴"],
-      "importer": "力潮文创",
-      "status": 0
-    },
-    {
-      "name": "致不灭的你11-",
-      "author": ["大今良时"],
-      "importer": "力潮文创",
-      "status": 0
-    },
-    {
-      "name": "我的青春恋爱喜剧果然有问题~妄言录1-5",
-      "author": ["渡航", "佳月玲茅"],
-      "importer": "力潮文创",
-      "status": 0
-    },
-    {
-      "name": "关于我变成史莱姆这档事",
-      "author": ["伏濑", "川上泰树"],
-      "importer": "力潮文创",
-      "status": 0
-    },
-    {
-      "name": "世界史侦探柯南3-6",
-      "author": ["青山刚昌原作"],
-      "importer": "力潮文创",
-      "status": 0
-    },
-    {
-      "name": "夏目友人帐",
-      "author": ["绿川幸"],
-      "importer": "力潮文创",
-      "status": 0
-    },
-    {
-      "name": "世界史侦探柯南",
-      "author": ["青山刚昌原作"],
-      "importer": "力潮文创",
-      "status": 0
-    },
-    {
-      "name": "哆啦A梦未收录作品1-6",
+      "name": "哆啦A梦剧场抓帧版",
       "author": ["藤子・F・不二雄"],
-      "importer": "吉美",
-      "status": 1
+      "importer": "长春",
+      "status": 0
     },
     {
-      "name": "精灵宝可梦特别篇54-61",
-      "author": ["日下秀憲"],
-      "importer": "吉美",
-      "status": 1
+      "name": "命运强手",
+      "author": ["井上雄彦"],
+      "importer": "长春",
+      "status": 0
     },
     {
-      "name": "哆啦A梦爆笑全集1-12",
+      "name": "灌篮高手 : 动画电影纪念版",
+      "author": ["井上雄彦"],
+      "importer": "长春",
+      "status": 0
+    },
+    {
+      "name": "灌篮高手完全版精装",
+      "author": ["井上雄彦"],
+      "importer": "长春",
+      "status": 0
+    },
+    {
+      "name": "灌篮高手完全版平装",
+      "author": ["井上雄彦"],
+      "importer": "长春",
+      "status": 0
+    },
+    {
+      "name": "机动奥特曼17-",
+      "author": ["清水荣一", "下口智裕"],
+      "importer": "长春",
+      "status": 0
+    },
+    {
+      "name": "剧场版哆啦A梦：大雄与天空的理想乡",
       "author": ["藤子・F・不二雄"],
-      "importer": "吉美",
-      "status": 1
-    },
-    {
-      "name": "哆啦A梦深入导读",
-      "author": ["日本小学馆哆啦A梦工作室", "编"],
-      "importer": "吉美",
+      "importer": "长春",
       "status": 0
     },
     {
-      "name": "精灵宝可梦特别篇62-",
-      "author": ["日下秀憲"],
-      "importer": "吉美",
+      "name": "机动奥特曼",
+      "author": ["清水荣一", "下口智裕"],
+      "importer": "长春",
       "status": 0
     },
     {
-      "name": "哆啦A梦爆笑全集",
+      "name": "哆啦A梦剧场版(抓帧)",
       "author": ["藤子・F・不二雄"],
-      "importer": "吉美",
+      "importer": "长春",
       "status": 0
     },
     {
-      "name": "哆啦A梦大全集",
-      "author": ["藤子・F・不二雄"],
-      "importer": "吉美",
+      "name": "名侦探柯南",
+      "author": ["青山刚昌"],
+      "importer": "长春",
       "status": 0
     },
     {
-      "name": "哆啦A梦PLUS1-6",
-      "author": ["藤子・F・不二雄"],
-      "importer": "吉美",
+      "name": "灌篮高手JUMP",
+      "author": ["井上雄彦"],
+      "importer": "长春",
       "status": 0
-    },
-    {
-      "name": "蓝莓上尉3：玉面阎罗",
-      "author": ["墨比斯", "让-米歇尔·沙利耶"],
-      "importer": "后浪",
-      "status": 1
-    },
-    {
-      "name": "德罗西大街",
-      "author": ["威尔·艾斯纳"],
-      "importer": "后浪",
-      "status": 1
-    },
-    {
-      "name": "猫眼",
-      "author": ["墨比斯绘", "亚历桑德罗·佐杜洛夫斯基编绘"],
-      "importer": "后浪",
-      "status": 1
-    },
-    {
-      "name": "门外",
-      "author": ["亚科·阿霍宁编", "劳里·阿霍宁绘"],
-      "importer": "后浪",
-      "status": 1
-    },
-    {
-      "name": "合金男爵3",
-      "author": ["亚历桑德罗·佐杜洛夫斯基", "胡安·希门尼斯"],
-      "importer": "后浪",
-      "status": 1
-    },
-    {
-      "name": "费里尼在罗马",
-      "author": ["蒂托·阿尔瓦"],
-      "importer": "后浪",
-      "status": 1
-    },
-    {
-      "name": "舌尖上的法国：夏长秋收",
-      "author": ["伊夫·康德伯德编", "雅克·费朗代绘"],
-      "importer": "后浪",
-      "status": 1
-    },
-    {
-      "name": "小恐龙阿贡1-7",
-      "author": ["田中政志"],
-      "importer": "后浪",
-      "status": 1
-    },
-    {
-      "name": "老家伙 : 当年情",
-      "author": ["威尔弗里德·卢帕诺编", "保罗·科埃绘"],
-      "importer": "后浪",
-      "status": 1
-    },
-    {
-      "name": "黄昏降临时",
-      "author": ["热雷米·佩罗多"],
-      "importer": "后浪",
-      "status": 1
-    },
-    {
-      "name": "春分秋分",
-      "author": ["西里尔·佩德罗萨"],
-      "importer": "后浪",
-      "status": 1
-    },
-    {
-      "name": "一秒钟",
-      "author": ["海贝卡•朵特梅"],
-      "importer": "后浪",
-      "status": 1
-    },
-    {
-      "name": "黑猫侦探6",
-      "author": ["胡安·卡纳莱斯", "胡安霍·瓜尔尼多"],
-      "importer": "后浪",
-      "status": 1
-    },
-    {
-      "name": "冰岛萨迦 : 格里姆尔传奇",
-      "author": ["热雷米·莫罗"],
-      "importer": "后浪",
-      "status": 1
-    },
-    {
-      "name": "岸边露伴在卢浮",
-      "author": ["荒木飞吕彦"],
-      "importer": "后浪",
-      "status": 1
-    },
-    {
-      "name": "鼠族",
-      "author": ["阿尔特·斯皮格尔曼"],
-      "importer": "后浪",
-      "status": 1
-    },
-    {
-      "name": "一座城市的一天 : 班加罗尔日与夜",
-      "author": ["西蒙·拉穆雷"],
-      "importer": "后浪",
-      "status": 1
-    },
-    {
-      "name": "少爷的时代1-5",
-      "author": ["谷口治郎", "关川夏央"],
-      "importer": "后浪",
-      "status": 1
-    },
-    {
-      "name": "竹光侍",
-      "author": ["松本大洋", "永福一成"],
-      "importer": "后浪",
-      "status": 1
-    },
-    {
-      "name": "上升",
-      "author": ["马克-安托万·马修"],
-      "importer": "后浪",
-      "status": 1
-    },
-    {
-      "name": "缄默",
-      "author": ["芭芭拉·耶林"],
-      "importer": "后浪",
-      "status": 1
-    },
-    {
-      "name": "普雷维尔不是诗人",
-      "author": ["埃尔韦·布里编", "克里斯蒂安·卡约绘"],
-      "importer": "后浪",
-      "status": 0
-    },
-    {
-      "name": "奥尔巴尼和斯特奇斯：英国三部曲",
-      "author": ["里维埃·弗朗索瓦", "弗洛克"],
-      "importer": "后浪",
-      "status": 0
-    },
-    {
-      "name": "那一天发生的超级不可思议事件",
-      "author": ["宫崎夏次系"],
-      "importer": "后浪",
-      "status": 0
-    },
-    {
-      "name": "梦之囚徒：超级大梦",
-      "author": ["马克-安托万·马修"],
-      "importer": "后浪",
-      "status": 0
-    },
-    {
-      "name": "凹凸：重写的人",
-      "author": ["马克-安托万·马修"],
-      "importer": "后浪",
-      "status": 0
-    },
-    {
-      "name": "宝石之国",
-      "author": ["市川春子"],
-      "importer": "后浪",
-      "status": 0
-    },
-    {
-      "name": "漫画游戏史",
-      "author": ["爱德华·罗斯"],
-      "importer": "后浪",
-      "status": 0
-    },
-    {
-      "name": "来自地狱",
-      "author": ["阿兰·摩尔"],
-      "importer": "后浪",
-      "status": 0
-    },
-    {
-      "name": "被子",
-      "author": ["克雷格·汤普森"],
-      "importer": "后浪",
-      "status": 0
-    },
-    {
-      "name": "阿扎克",
-      "author": ["莫比斯"],
-      "importer": "后浪",
-      "status": 0
-    },
-    {
-      "name": "解读鼠族",
-      "author": ["希拉里·丘特", "阿尔特·斯皮格曼"],
-      "importer": "后浪",
-      "status": 0
-    },
-    {
-      "name": "哥谭重案组4",
-      "author": ["艾德·布鲁贝克", "格雷格·卢卡", "迈克尔·拉克"],
-      "importer": "后浪",
-      "status": 0
-    },
-    {
-      "name": "手冢治虫杰出手稿集·漫画篇",
-      "author": ["手冢治虫"],
-      "importer": "后浪",
-      "status": 0
-    },
-    {
-      "name": "蝙蝠侠：英勇无畏",
-      "author": ["马特·韦恩", "安迪·苏里亚诺", "丹·戴维斯"],
-      "importer": "后浪",
-      "status": 0
-    },
-    {
-      "name": "蝙蝠侠：哥谭大冒险",
-      "author": ["瑞克·伯切特", "特里·比蒂", "李·洛里奇"],
-      "importer": "后浪",
-      "status": 0
-    },
-    {
-      "name": "黑狗：保罗·纳什之梦",
-      "author": ["戴夫·麦基恩"],
-      "importer": "后浪",
-      "status": 0
-    },
-    {
-      "name": "与神的契约",
-      "author": ["威尔·艾斯纳"],
-      "importer": "后浪",
-      "status": 0
-    },
-    {
-      "name": "红男爵",
-      "author": ["普尔塔·卡洛斯"],
-      "importer": "后浪",
-      "status": 0
-    },
-    {
-      "name": "第一台电脑",
-      "author": ["西德妮·帕多瓦"],
-      "importer": "后浪",
-      "status": 0
-    },
-    {
-      "name": "死囚徒亨利",
-      "author": ["克里斯多夫·夏布特"],
-      "importer": "后浪",
-      "status": 0
-    },
-    {
-      "name": "美人",
-      "author": ["法比安·韦尔曼", "凯拉斯科多"],
-      "importer": "后浪",
-      "status": 0
-    },
-    {
-      "name": "睡魔6",
-      "author": ["尼尔·盖曼", "肖恩·马努斯"],
-      "importer": "后浪",
-      "status": 0
-    },
-    {
-      "name": "合金男爵4",
-      "author": ["亚历桑德罗·佐杜洛夫斯基", "胡安·希门尼斯"],
-      "importer": "后浪",
-      "status": 0
-    },
-    {
-      "name": "怪医黑杰克1-6",
-      "author": ["手冢治虫"],
-      "importer": "后浪",
-      "status": 0
-    },
-    {
-      "name": "神之山岭1-5",
-      "author": ["谷口治郎", "梦枕貘"],
-      "importer": "后浪",
-      "status": 0
-    },
-    {
-      "name": "蓝莓上尉3：刺杀总统的阴谋",
-      "author": ["墨比斯", "让-米歇尔·沙利耶"],
-      "importer": "后浪",
-      "status": 0
-    },
-    {
-      "name": "小恐龙阿贡",
-      "author": ["田中政志"],
-      "importer": "后浪",
-      "status": 0
-    },
-    {
-      "name": "英国三部曲",
-      "author": ["里维埃·弗朗索瓦", "弗洛克"],
-      "importer": "后浪",
-      "status": 0
-    },
-    {
-      "name": "致某科学院的报告",
-      "author": ["弗兰茨·卡夫卡著", "马希·格莱德编绘"],
-      "importer": "果麦",
-      "status": 1
     },
     {
       "name": "《BIG COMIC》创刊物语",
@@ -1712,609 +1784,279 @@
       "status": 0
     },
     {
-      "name": "克总，发糖！",
-      "author": ["戈米"],
-      "importer": "次元书馆",
+      "name": "关于我变成史莱姆这档事1-5",
+      "author": ["伏濑", "川上泰树"],
+      "importer": "力潮文创",
       "status": 1
     },
     {
-      "name": "蜂蜜与四叶草1-4",
-      "author": ["羽海野千花"],
-      "importer": "次元书馆",
+      "name": "世界史侦探柯南3-4",
+      "author": ["青山刚昌原作"],
+      "importer": "力潮文创",
       "status": 1
     },
     {
-      "name": "三月的狮子3-4",
-      "author": ["羽海野千花"],
-      "importer": "次元书馆",
+      "name": "致不灭的你6-10",
+      "author": ["大今良时"],
+      "importer": "力潮文创",
       "status": 1
     },
     {
-      "name": "加西亚·马尔克斯 : 魔幻人生",
-      "author": ["奥斯卡·潘托哈", "米格尔·布斯托斯等"],
-      "importer": "次元书馆",
+      "name": "夏目友人帐19-",
+      "author": ["绿川幸"],
+      "importer": "力潮文创",
+      "status": 0
+    },
+    {
+      "name": "世界史侦探柯南5-6",
+      "author": ["青山刚昌原作"],
+      "importer": "力潮文创",
+      "status": 0
+    },
+    {
+      "name": "关于我变成史莱姆这档事6-",
+      "author": ["伏濑", "川上泰树"],
+      "importer": "力潮文创",
+      "status": 0
+    },
+    {
+      "name": "阿宅的恋爱真难",
+      "author": ["藤田"],
+      "importer": "力潮文创",
+      "status": 0
+    },
+    {
+      "name": "虚构推理",
+      "author": ["城平京", "片濑茶柴"],
+      "importer": "力潮文创",
+      "status": 0
+    },
+    {
+      "name": "致不灭的你",
+      "author": ["大今良时"],
+      "importer": "力潮文创",
+      "status": 0
+    },
+    {
+      "name": "我的青春恋爱喜剧果然有问题~妄言录1-5",
+      "author": ["渡航", "佳月玲茅"],
+      "importer": "力潮文创",
+      "status": 0
+    },
+    {
+      "name": "致不灭的你11-",
+      "author": ["大今良时"],
+      "importer": "力潮文创",
+      "status": 0
+    },
+    {
+      "name": "关于我变成史莱姆这档事",
+      "author": ["伏濑", "川上泰树"],
+      "importer": "力潮文创",
+      "status": 0
+    },
+    {
+      "name": "世界史侦探柯南3-6",
+      "author": ["青山刚昌原作"],
+      "importer": "力潮文创",
+      "status": 0
+    },
+    {
+      "name": "夏目友人帐",
+      "author": ["绿川幸"],
+      "importer": "力潮文创",
+      "status": 0
+    },
+    {
+      "name": "世界史侦探柯南",
+      "author": ["青山刚昌原作"],
+      "importer": "力潮文创",
+      "status": 0
+    },
+    {
+      "name": "虫与歌",
+      "author": ["市川春子"],
+      "importer": "新经典",
       "status": 1
     },
     {
-      "name": "三月的狮子1-2",
-      "author": ["羽海野千花"],
-      "importer": "次元书馆",
+      "name": "level e1-3",
+      "author": ["富坚义博"],
+      "importer": "新经典",
       "status": 1
     },
     {
-      "name": "星之彩",
-      "author": ["爱手艺原著", "田边刚"],
-      "importer": "次元书馆",
+      "name": "鸟山明O作剧场",
+      "author": ["鸟山明"],
+      "importer": "新经典",
       "status": 1
     },
     {
-      "name": "克苏鲁的呼唤",
-      "author": ["爱手艺原著", "田边刚"],
-      "importer": "次元书馆",
+      "name": "不必为我歌唱",
+      "author": ["米歇尔·拉巴利亚蒂"],
+      "importer": "新经典",
       "status": 1
     },
     {
-      "name": "南瓜与我的野放生活",
-      "author": ["五十岚大介"],
-      "importer": "次元书馆",
+      "name": "12色物语",
+      "author": ["坂口尚"],
+      "importer": "新经典",
       "status": 1
     },
     {
-      "name": "蜘蛛侠漫画史 : 从神奇到惊世骇俗",
-      "author": ["马特·辛格", "J·M·德马泰"],
-      "importer": "次元书馆",
+      "name": "翻面的黑猫",
+      "author": ["高野文子"],
+      "importer": "新经典",
       "status": 1
     },
     {
-      "name": "夜魔",
-      "author": ["爱手艺原著", "田边刚"],
-      "importer": "次元书馆",
+      "name": "我的辽阔天地",
+      "author": ["卡特琳·默里斯"],
+      "importer": "新经典",
       "status": 1
     },
     {
-      "name": "舞冰的祈愿",
-      "author": ["鹤舞墨鱼太"],
-      "importer": "次元书馆",
-      "status": 0
-    },
-    {
-      "name": "响子和爸爸",
-      "author": ["石黑正数"],
-      "importer": "次元书馆",
-      "status": 0
-    },
-    {
-      "name": "睡觉的笨蛋",
-      "author": ["石黑正数"],
-      "importer": "次元书馆",
-      "status": 0
-    },
-    {
-      "name": "水星领航员完全版",
-      "author": ["天野梢"],
-      "importer": "次元书馆",
-      "status": 0
-    },
-    {
-      "name": "超强大脑夏洛克·福尔摩斯:骇人听闻的门票案2/2",
-      "author": ["西里尔·列龙", "伯努瓦·达昂"],
-      "importer": "次元书馆",
-      "status": 0
-    },
-    {
-      "name": "博尔赫斯 : 无限迷宫",
-      "author": ["尼古拉斯·卡斯特尔", "奥斯卡·潘托哈"],
-      "importer": "次元书馆",
-      "status": 0
-    },
-    {
-      "name": "弗雷迪·墨丘利：漫画传奇",
-      "author": ["阿方索·卡萨斯"],
-      "importer": "次元书馆",
-      "status": 0
-    },
-    {
-      "name": "刺客信条：少芸之刃1-4",
-      "author": ["仓田三之路"],
-      "importer": "次元书馆",
-      "status": 0
-    },
-    {
-      "name": "愚者之夜1-2",
-      "author": ["安田佳澄"],
-      "importer": "次元书馆",
-      "status": 0
-    },
-    {
-      "name": "蜂蜜与四叶草5-10",
-      "author": ["羽海野千花"],
-      "importer": "次元书馆",
-      "status": 0
-    },
-    {
-      "name": "极线杀手：不可饶恕",
-      "author": ["维克托·桑托斯"],
-      "importer": "次元书馆",
-      "status": 0
-    },
-    {
-      "name": "300勇士",
-      "author": ["弗兰克·米勒"],
-      "importer": "次元书馆",
-      "status": 0
-    },
-    {
-      "name": "伞学院 : 达拉斯",
-      "author": ["杰拉德·威著", "加百列·巴"],
-      "importer": "次元书馆",
-      "status": 0
-    },
-    {
-      "name": "阿凡达：苏泰之路",
-      "author": ["雪莉·史密斯"],
-      "importer": "次元书馆",
-      "status": 0
-    },
-    {
-      "name": "地狱男爵5-12",
-      "author": ["迈克·米格诺拉"],
-      "importer": "次元书馆",
-      "status": 0
-    },
-    {
-      "name": "女神异闻录5 1-4",
-      "author": ["村崎久都"],
-      "importer": "次元书馆",
-      "status": 0
-    },
-    {
-      "name": "印斯茅斯之影",
-      "author": ["爱手艺原著", "田边刚"],
-      "importer": "次元书馆",
-      "status": 0
-    },
-    {
-      "name": "超越时间之影",
-      "author": ["爱手艺原著", "田边刚"],
-      "importer": "次元书馆",
-      "status": 0
-    },
-    {
-      "name": "三月的狮子5-15",
-      "author": ["羽海野千花"],
-      "importer": "次元书馆",
-      "status": 0
-    },
-    {
-      "name": "葬送的芙莉莲5-8",
-      "author": ["山田钟人", "阿部司"],
-      "importer": "次元书馆",
-      "status": 0
-    },
-    {
-      "name": "间谍过家家7-10",
-      "author": ["远藤达哉"],
-      "importer": "次元书馆",
-      "status": 0
-    },
-    {
-      "name": "超强大脑夏洛克·福尔摩斯:骇人听闻的门票案",
-      "author": ["西里尔·列龙", "伯努瓦·达昂"],
-      "importer": "次元书馆",
-      "status": 0
-    },
-    {
-      "name": "三月的狮子5-",
-      "author": ["羽海野千花"],
-      "importer": "次元书馆",
-      "status": 0
-    },
-    {
-      "name": "蜂蜜与四叶草1-10",
-      "author": ["羽海野千花"],
-      "importer": "次元书馆",
-      "status": 0
-    },
-    {
-      "name": "三月的狮子3-",
-      "author": ["羽海野千花"],
-      "importer": "次元书馆",
-      "status": 0
-    },
-    {
-      "name": "葬送的芙莉莲5-",
-      "author": ["山田钟人", "阿部司"],
-      "importer": "次元书馆",
-      "status": 0
-    },
-    {
-      "name": "间谍过家家7-",
-      "author": ["远藤达哉"],
-      "importer": "次元书馆",
-      "status": 0
-    },
-    {
-      "name": "三月的狮子1-15",
-      "author": ["羽海野千花"],
-      "importer": "次元书馆",
-      "status": 0
-    },
-    {
-      "name": "水星领航员",
-      "author": ["天野梢"],
-      "importer": "次元书馆",
-      "status": 0
-    },
-    {
-      "name": "物理魔法使马修1-4",
-      "author": ["甲本一"],
-      "importer": "博集天卷",
+      "name": "牧羊少年奇幻之旅",
+      "author": ["保罗·柯艾略"],
+      "importer": "新经典",
       "status": 1
     },
     {
-      "name": "悦动青春1-6",
-      "author": ["高松美咲"],
-      "importer": "博集天卷",
+      "name": "当尘埃落尽",
+      "author": ["米歇尔·拉巴利亚蒂"],
+      "importer": "新经典",
       "status": 1
     },
     {
-      "name": "水浒传1-6",
-      "author": ["横山光辉"],
-      "importer": "博集天卷",
-      "status": 1
-    },
-    {
-      "name": "芬兰人的噩梦",
-      "author": ["卡罗利娜•科尔霍宁"],
-      "importer": "博集天卷",
-      "status": 1
-    },
-    {
-      "name": "转生史莱姆日记",
-      "author": ["伏濑", "柴", "MitzVah"],
-      "importer": "博集天卷",
-      "status": 1
-    },
-    {
-      "name": "物理魔法使马修5-",
-      "author": ["甲本一"],
-      "importer": "博集天卷",
+      "name": "如果我消失了",
+      "author": ["米莱恩·马莱"],
+      "importer": "新经典",
       "status": 0
     },
     {
-      "name": "封神演义7-12",
-      "author": ["横山光辉"],
-      "importer": "博集天卷",
+      "name": "跳洞少年",
+      "author": ["莫莉·门多萨"],
+      "importer": "新经典",
       "status": 0
     },
     {
-      "name": "灵能百分百",
-      "author": ["one"],
-      "importer": "博集天卷",
+      "name": "奥林匹斯传说",
+      "author": ["蕾切尔·斯迈思"],
+      "importer": "新经典",
       "status": 0
     },
     {
-      "name": "悦动青春7-",
-      "author": ["高松美咲"],
-      "importer": "博集天卷",
+      "name": "为了哆啦A梦：藤子·F.不二雄的漫画技法",
+      "author": ["藤子·F.不二雄"],
+      "importer": "新经典",
       "status": 0
     },
     {
-      "name": "炎炎消防队11-",
-      "author": ["大久保笃"],
-      "importer": "博集天卷",
-      "status": 0
-    },
-    {
-      "name": "悦动青春",
-      "author": ["高松美咲"],
-      "importer": "博集天卷",
-      "status": 0
-    },
-    {
-      "name": "封神演义1-6",
-      "author": ["横山光辉"],
-      "importer": "博集天卷",
-      "status": 0
-    },
-    {
-      "name": "与妖为邻. 1-2",
-      "author": ["野步"],
-      "importer": "",
-      "status": 0
-    },
-    {
-      "name": "一个人的悠闲时光",
-      "author": ["小津麻理子"],
-      "importer": "",
-      "status": 0
-    },
-    {
-      "name": "完美牛仔的世界观 : 库特拉斯关于爱情、艺术、宇宙的种种思考",
-      "author": ["卡布尼奥"],
-      "importer": "",
-      "status": 0
-    },
-    {
-      "name": "好想消失的日子",
-      "author": ["金镇率"],
-      "importer": "",
-      "status": 0
-    },
-    {
-      "name": "无限试用",
-      "author": ["雅姆"],
-      "importer": "",
-      "status": 0
-    },
-    {
-      "name": "我爱你 : 全三册",
+      "name": "照明商店",
       "author": ["姜草"],
-      "importer": "",
+      "importer": "新经典",
       "status": 0
     },
     {
-      "name": "待出版漫画",
-      "author": [""],
-      "importer": "",
+      "name": "若水沿流，落入海",
+      "author": ["田岛列岛"],
+      "importer": "新经典",
       "status": 0
     },
     {
-      "name": "尖帽子的魔法工坊10",
-      "author": ["白滨鸥"],
-      "importer": "海星创造",
-      "status": 1
-    },
-    {
-      "name": "尖帽子的魔法工坊10-",
-      "author": ["白滨鸥"],
-      "importer": "海星创造",
+      "name": "我很正常",
+      "author": ["宫崎夏次系"],
+      "importer": "新经典",
       "status": 0
     },
     {
-      "name": "神探夏洛克：贝尔格莱维亚丑闻",
-      "author": ["史蒂芬·莫法特", "马克·加蒂斯著", "Jay.绘"],
-      "importer": "海星创造",
+      "name": "为你着迷",
+      "author": ["和山山"],
+      "importer": "新经典",
       "status": 0
     },
     {
-      "name": "尖帽子的魔法工坊",
-      "author": ["白滨鸥"],
-      "importer": "海星创造",
+      "name": "去唱卡拉OK吧",
+      "author": ["和山山"],
+      "importer": "新经典",
       "status": 0
     },
     {
-      "name": "神秘博士：第十二任博士 恐怖制造者",
-      "author": ["罗比·莫里森等"],
-      "importer": "海星创造",
+      "name": "女校之星",
+      "author": ["和山山"],
+      "importer": "新经典",
       "status": 0
     },
     {
-      "name": "神秘博士：第十一任博士 往后余生",
-      "author": ["艾尔·尤因等"],
-      "importer": "海星创造",
+      "name": "使女的故事",
+      "author": ["玛格丽特·阿特伍德", "勒内·诺特"],
+      "importer": "新经典",
       "status": 0
     },
     {
-      "name": "神秘博士：第十任博士 颠覆恐惧",
-      "author": ["尼克·阿巴齐斯等"],
-      "importer": "海星创造",
+      "name": "东京平常日",
+      "author": ["松本大洋"],
+      "importer": "新经典",
       "status": 0
     },
     {
-      "name": "龙珠公式书永恒",
-      "author": ["鸟山明"],
-      "importer": "大漫",
-      "status": 1
-    },
-    {
-      "name": "龙珠公式书里程碑",
-      "author": ["鸟山明"],
-      "importer": "大漫",
-      "status": 1
-    },
-    {
-      "name": "龙珠 超全集",
-      "author": ["鸟山明"],
-      "importer": "大漫",
+      "name": "乐与路",
+      "author": ["浅野一二⚪"],
+      "importer": "新经典",
       "status": 0
     },
     {
-      "name": "龙珠　公式书　永恒",
-      "author": ["鸟山明"],
-      "importer": "大漫",
+      "name": "别对映像研出手6-7",
+      "author": ["大童澄瞳"],
+      "importer": "新经典",
       "status": 0
     },
     {
-      "name": "《赛博朋克 2077：强尼何在》",
-      "author": ["巴尔托什·斯泽波尔著", "扬尼斯·米洛诺扬尼斯绘"],
-      "importer": "科幻世界",
-      "status": 1
-    },
-    {
-      "name": "《赛博朋克 2077：你的声音》",
-      "author": ["亚历山德拉·莫蒂卡", "马尔钦·布拉沙著", "达尼耶尔·热热利绘"],
-      "importer": "科幻世界",
-      "status": 1
-    },
-    {
-      "name": "明日边缘",
-      "author": ["小畑健", "樱坂洋"],
-      "importer": "科幻世界",
-      "status": 1
-    },
-    {
-      "name": "科幻历史：图像小说",
-      "author": ["泽维尔·多洛", "贾布里尔·莫里塞特·潘"],
-      "importer": "科幻世界",
+      "name": "一周的朋友1-10",
+      "author": ["叶月抹茶"],
+      "importer": "新经典",
       "status": 0
     },
     {
-      "name": "极速车魂1-3",
-      "author": ["重野秀一"],
-      "importer": "三联",
+      "name": "写写画画1-5",
+      "author": ["东村明子"],
+      "importer": "新经典",
       "status": 0
     },
     {
-      "name": "极速车魂",
-      "author": ["重野秀一"],
-      "importer": "三联",
+      "name": "青春方程式",
+      "author": ["安达充"],
+      "importer": "新经典",
       "status": 0
     },
     {
-      "name": "恐龙庇护所",
-      "author": ["木下迪"],
-      "importer": "风炫",
+      "name": "海街日记1-9",
+      "author": ["吉田秋生"],
+      "importer": "新经典",
       "status": 0
     },
     {
-      "name": "马哥梅尔深海水族馆1-3",
-      "author": ["椙下圣海"],
-      "importer": "风炫",
+      "name": "跳动少年",
+      "author": ["莫莉·门多萨"],
+      "importer": "新经典",
       "status": 0
     },
     {
-      "name": "马哥梅尔深海水族馆",
-      "author": ["椙下圣海"],
-      "importer": "风炫",
+      "name": "别对映像研出手6-",
+      "author": ["大童澄瞳"],
+      "importer": "新经典",
       "status": 0
     },
     {
-      "name": "轻音少女1-4",
-      "author": ["卡其弗莱"],
-      "importer": "中青",
+      "name": "铳梦",
+      "author": ["木城幸人"],
+      "importer": "新经典",
       "status": 0
     },
     {
-      "name": "月刊少女野崎君12-13",
-      "author": ["椿泉"],
-      "importer": "世图",
-      "status": 1
-    },
-    {
-      "name": "无主之地3",
-      "author": ["查克·狄克逊等著"],
-      "importer": "世图",
-      "status": 0
-    },
-    {
-      "name": "蝙蝠侠. 红头罩之下",
-      "author": ["贾德·威尼克著", "道格·曼克等绘"],
-      "importer": "世图",
-      "status": 0
-    },
-    {
-      "name": "月刊少女野崎君",
-      "author": ["椿泉"],
-      "importer": "世图",
-      "status": 0
-    },
-    {
-      "name": "守望者前传",
-      "author": ["布莱恩·阿扎瑞罗", "李•贝尔梅霍", "J.G.琼斯"],
-      "importer": "世图",
-      "status": 0
-    },
-    {
-      "name": "狂女的逆袭",
-      "author": ["闵瑞瑛"],
-      "importer": "磨铁",
-      "status": 1
-    },
-    {
-      "name": "单人房的天使",
-      "author": ["Harada"],
-      "importer": "磨铁",
-      "status": 1
-    },
-    {
-      "name": "兔子即正义1-2",
-      "author": ["井口病院"],
-      "importer": "磨铁",
-      "status": 1
-    },
-    {
-      "name": "虫师",
-      "author": ["漆原友纪"],
-      "importer": "磨铁",
-      "status": 1
-    },
-    {
-      "name": "伊藤润二的猫日记",
-      "author": ["伊藤润二"],
-      "importer": "磨铁",
-      "status": 0
-    },
-    {
-      "name": "赡养上帝",
-      "author": ["刘慈欣", "横山旬"],
-      "importer": "磨铁",
-      "status": 0
-    },
-    {
-      "name": "工作细胞6",
-      "author": ["清水茜"],
-      "importer": "磨铁",
-      "status": 0
-    },
-    {
-      "name": "工作细胞绘本",
-      "author": ["清水茜原著", "牧村久实编绘"],
-      "importer": "磨铁",
-      "status": 0
-    },
-    {
-      "name": "滚石乐队 : 漫画版",
-      "author": ["塞卡", "巴斯特"],
-      "importer": "台海",
-      "status": 0
-    },
-    {
-      "name": "鲍勃·马利 : 漫画版",
-      "author": ["盖特", "布莱特曼"],
-      "importer": "台海",
-      "status": 0
-    },
-    {
-      "name": "迈克尔·杰克逊 : 漫画版",
-      "author": ["塞卡", "巴斯特"],
-      "importer": "台海",
-      "status": 0
-    },
-    {
-      "name": "披头士乐队：漫画版",
-      "author": ["梅布尔", "加埃"],
-      "importer": "台海",
-      "status": 0
-    },
-    {
-      "name": "地。关于地球的运动1-4",
-      "author": ["鱼丰"],
-      "importer": "华文天下",
-      "status": 1
-    },
-    {
-      "name": "火凤燎原",
-      "author": ["陈某"],
-      "importer": "华文天下",
-      "status": 0
-    },
-    {
-      "name": "平屋小品",
-      "author": ["真造圭伍"],
-      "importer": "华文天下",
-      "status": 0
-    },
-    {
-      "name": "地缚少年花子君",
-      "author": ["AIDAIRO"],
-      "importer": "华文天下",
-      "status": 0
-    },
-    {
-      "name": "地。关于地球的运动5-8",
-      "author": ["鱼丰"],
-      "importer": "华文天下",
+      "name": "别对印像研出手6-7",
+      "author": ["大童澄瞳"],
+      "importer": "新经典",
       "status": 0
     },
     {
@@ -2370,6 +2112,12 @@
       "author": ["刘慈欣", "科琳娜·蓓尔特兰德"],
       "importer": "中信",
       "status": 1
+    },
+    {
+      "name": "放学后失眠的你",
+      "author": ["尾城真"],
+      "importer": "中信",
+      "status": 0
     },
     {
       "name": "星空清理者",
@@ -2450,6 +2198,12 @@
       "status": 0
     },
     {
+      "name": "人间失格",
+      "author": ["古屋兔丸"],
+      "importer": "中信",
+      "status": 0
+    },
+    {
       "name": "玛丽的音乐盒",
       "author": ["古屋兔丸"],
       "importer": "中信",
@@ -2460,6 +2214,372 @@
       "author": ["平库瓦卡"],
       "importer": "中信",
       "status": 0
+    },
+    {
+      "name": "神探夏洛克4-5",
+      "author": ["史蒂文•莫法特和马克•加蒂斯改编", "Jay.绘制"],
+      "importer": "新星",
+      "status": 1
+    },
+    {
+      "name": "山与食欲与我5-8",
+      "author": ["信浓川日出雄"],
+      "importer": "新星",
+      "status": 1
+    },
+    {
+      "name": "山与食欲与我1-4",
+      "author": ["信浓川日出雄"],
+      "importer": "新星",
+      "status": 1
+    },
+    {
+      "name": "蓦然回首",
+      "author": ["藤本树"],
+      "importer": "新星",
+      "status": 1
+    },
+    {
+      "name": "天国大魔镜",
+      "author": ["石黑正数"],
+      "importer": "新星",
+      "status": 0
+    },
+    {
+      "name": "十角馆事件2-",
+      "author": ["绫辻行人", "清原纮"],
+      "importer": "新星",
+      "status": 0
+    },
+    {
+      "name": "山与食欲与我9-",
+      "author": ["信浓川日出雄"],
+      "importer": "新星",
+      "status": 0
+    },
+    {
+      "name": "三国志11-30",
+      "author": ["横山光辉"],
+      "importer": "新星",
+      "status": 0
+    },
+    {
+      "name": "乔乔的奇妙冒险49-63",
+      "author": ["荒木飞吕彦"],
+      "importer": "新星",
+      "status": 0
+    },
+    {
+      "name": "十角馆事件",
+      "author": ["绫辻行人", "清原纮"],
+      "importer": "新星",
+      "status": 0
+    },
+    {
+      "name": "山与食欲与我5-",
+      "author": ["信浓川日出雄"],
+      "importer": "新星",
+      "status": 0
+    },
+    {
+      "name": "克总，发糖！",
+      "author": ["戈米"],
+      "importer": "次元书馆",
+      "status": 1
+    },
+    {
+      "name": "蜂蜜与四叶草1-4",
+      "author": ["羽海野千花"],
+      "importer": "次元书馆",
+      "status": 1
+    },
+    {
+      "name": "三月的狮子3-4",
+      "author": ["羽海野千花"],
+      "importer": "次元书馆",
+      "status": 1
+    },
+    {
+      "name": "加西亚·马尔克斯 : 魔幻人生",
+      "author": ["奥斯卡·潘托哈", "米格尔·布斯托斯等"],
+      "importer": "次元书馆",
+      "status": 1
+    },
+    {
+      "name": "三月的狮子1-2",
+      "author": ["羽海野千花"],
+      "importer": "次元书馆",
+      "status": 1
+    },
+    {
+      "name": "星之彩",
+      "author": ["爱手艺原著", "田边刚"],
+      "importer": "次元书馆",
+      "status": 1
+    },
+    {
+      "name": "克苏鲁的呼唤",
+      "author": ["爱手艺原著", "田边刚"],
+      "importer": "次元书馆",
+      "status": 1
+    },
+    {
+      "name": "南瓜与我的野放生活",
+      "author": ["五十岚大介"],
+      "importer": "次元书馆",
+      "status": 1
+    },
+    {
+      "name": "蜘蛛侠漫画史 : 从神奇到惊世骇俗",
+      "author": ["马特·辛格", "J·M·德马泰"],
+      "importer": "次元书馆",
+      "status": 1
+    },
+    {
+      "name": "夜魔",
+      "author": ["爱手艺原著", "田边刚"],
+      "importer": "次元书馆",
+      "status": 1
+    },
+    {
+      "name": "金牌得主",
+      "author": ["鹤舞墨鱼太"],
+      "importer": "次元书馆",
+      "status": 0
+    },
+    {
+      "name": "响子和爸爸",
+      "author": ["石黑正数"],
+      "importer": "次元书馆",
+      "status": 0
+    },
+    {
+      "name": "睡觉的笨蛋",
+      "author": ["石黑正数"],
+      "importer": "次元书馆",
+      "status": 0
+    },
+    {
+      "name": "水星领航员完全版",
+      "author": ["天野梢"],
+      "importer": "次元书馆",
+      "status": 0
+    },
+    {
+      "name": "超强大脑夏洛克·福尔摩斯:骇人听闻的门票案2/2",
+      "author": ["西里尔·列龙", "伯努瓦·达昂"],
+      "importer": "次元书馆",
+      "status": 0
+    },
+    {
+      "name": "博尔赫斯 : 无限迷宫",
+      "author": ["尼古拉斯·卡斯特尔", "奥斯卡·潘托哈"],
+      "importer": "次元书馆",
+      "status": 0
+    },
+    {
+      "name": "弗雷迪·墨丘利：漫画传奇",
+      "author": ["阿方索·卡萨斯"],
+      "importer": "次元书馆",
+      "status": 0
+    },
+    {
+      "name": "刺客信条：少芸之刃1-4",
+      "author": ["仓田三之路"],
+      "importer": "次元书馆",
+      "status": 0
+    },
+    {
+      "name": "愚者之夜1-2",
+      "author": ["安田佳澄"],
+      "importer": "次元书馆",
+      "status": 0
+    },
+    {
+      "name": "蜂蜜与四叶草5-10",
+      "author": ["羽海野千花"],
+      "importer": "次元书馆",
+      "status": 0
+    },
+    {
+      "name": "地狱男爵5-12",
+      "author": ["迈克·米格诺拉"],
+      "importer": "次元书馆",
+      "status": 0
+    },
+    {
+      "name": "女神异闻录5 1-4",
+      "author": ["村崎久都"],
+      "importer": "次元书馆",
+      "status": 0
+    },
+    {
+      "name": "超越时间之影",
+      "author": ["爱手艺原著", "田边刚"],
+      "importer": "次元书馆",
+      "status": 0
+    },
+    {
+      "name": "三月的狮子5-15",
+      "author": ["羽海野千花"],
+      "importer": "次元书馆",
+      "status": 0
+    },
+    {
+      "name": "葬送的芙莉莲5-8",
+      "author": ["山田钟人", "阿部司"],
+      "importer": "次元书馆",
+      "status": 0
+    },
+    {
+      "name": "间谍过家家7-10",
+      "author": ["远藤达哉"],
+      "importer": "次元书馆",
+      "status": 0
+    },
+    {
+      "name": "印斯茅斯之影",
+      "author": ["爱手艺原著", "田边刚"],
+      "importer": "次元书馆",
+      "status": 0
+    },
+    {
+      "name": "舞冰的祈愿",
+      "author": ["鹤舞墨鱼太"],
+      "importer": "次元书馆",
+      "status": 0
+    },
+    {
+      "name": "极线杀手：不可饶恕",
+      "author": ["维克托·桑托斯"],
+      "importer": "次元书馆",
+      "status": 0
+    },
+    {
+      "name": "300勇士",
+      "author": ["弗兰克·米勒"],
+      "importer": "次元书馆",
+      "status": 0
+    },
+    {
+      "name": "伞学院 : 达拉斯",
+      "author": ["杰拉德·威著", "加百列·巴"],
+      "importer": "次元书馆",
+      "status": 0
+    },
+    {
+      "name": "阿凡达：苏泰之路",
+      "author": ["雪莉·史密斯"],
+      "importer": "次元书馆",
+      "status": 0
+    },
+    {
+      "name": "超强大脑夏洛克·福尔摩斯:骇人听闻的门票案",
+      "author": ["西里尔·列龙", "伯努瓦·达昂"],
+      "importer": "次元书馆",
+      "status": 0
+    },
+    {
+      "name": "三月的狮子5-",
+      "author": ["羽海野千花"],
+      "importer": "次元书馆",
+      "status": 0
+    },
+    {
+      "name": "蜂蜜与四叶草1-10",
+      "author": ["羽海野千花"],
+      "importer": "次元书馆",
+      "status": 0
+    },
+    {
+      "name": "三月的狮子3-",
+      "author": ["羽海野千花"],
+      "importer": "次元书馆",
+      "status": 0
+    },
+    {
+      "name": "葬送的芙莉莲5-",
+      "author": ["山田钟人", "阿部司"],
+      "importer": "次元书馆",
+      "status": 0
+    },
+    {
+      "name": "间谍过家家7-",
+      "author": ["远藤达哉"],
+      "importer": "次元书馆",
+      "status": 0
+    },
+    {
+      "name": "三月的狮子1-15",
+      "author": ["羽海野千花"],
+      "importer": "次元书馆",
+      "status": 0
+    },
+    {
+      "name": "水星领航员",
+      "author": ["天野梢"],
+      "importer": "次元书馆",
+      "status": 0
+    },
+    {
+      "name": "S跟我说……",
+      "author": ["济比"],
+      "importer": "文化发展",
+      "status": 1
+    },
+    {
+      "name": "费曼",
+      "author": ["吉姆·奥塔维亚尼", "利兰·迈里克"],
+      "importer": "未读",
+      "status": 1
+    },
+    {
+      "name": "爱因斯坦",
+      "author": ["吉姆·奥塔维亚尼", "杰雷林·戴伊"],
+      "importer": "未读",
+      "status": 1
+    },
+    {
+      "name": "漫画霍金传",
+      "author": ["吉姆·奥塔维亚尼", "利兰·迈里克"],
+      "importer": "未读",
+      "status": 1
+    },
+    {
+      "name": "霍金",
+      "author": ["吉姆·奥塔维亚尼", "利兰·迈里克"],
+      "importer": "未读",
+      "status": 0
+    },
+    {
+      "name": "不要离开我",
+      "author": ["罗斯玛丽·瓦莱罗·奥康奈尔"],
+      "importer": "森雨漫",
+      "status": 1
+    },
+    {
+      "name": "卓克",
+      "author": ["邱玉"],
+      "importer": "森雨漫",
+      "status": 1
+    },
+    {
+      "name": "艾玛的味觉",
+      "author": ["艾玛纽埃尔·迈松纳夫", "茱莉娅·帕夫洛维奇著", "高浜宽绘"],
+      "importer": "人文",
+      "status": 1
+    },
+    {
+      "name": "玻璃之后",
+      "author": ["安东尼娅·巴尼亚多斯"],
+      "importer": "千寻文化",
+      "status": 1
+    },
+    {
+      "name": "致某科学院的报告",
+      "author": ["弗兰茨·卡夫卡著", "马希·格莱德编绘"],
+      "importer": "果麦",
+      "status": 1
     },
     {
       "name": "不工作细胞1-5",
