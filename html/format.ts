@@ -1,5 +1,3 @@
-import fs from "fs"
-import path from "path"
 import puppeteer from "puppeteer"
 
 export interface Book {
@@ -26,13 +24,22 @@ const urls = [
   "https://mp.weixin.qq.com/s/U6pdDFme4BXH8xUzUf2ytA",
   "https://mp.weixin.qq.com/s/V6PcLZnwDsdHUGOffZZboQ",
   "https://mp.weixin.qq.com/s/Mcu41rUt2S8c3ZDCsWzc_A"
+  // "https://mp.weixin.qq.com/s/Cel2RBgyQgegR2EQuGlHRw"
 ]
 
 const browser = await puppeteer.launch({ headless: "new" })
+
 const booksList = (
   await Promise.all(
     urls.map(async (url) => {
       const page = await browser.newPage()
+
+      page.on("console", (message) => {
+        const text = message.text()
+
+        console.log(text)
+      })
+
       await page.goto(url)
       const booksList = await page.evaluate(getBooks)
       return booksList
@@ -40,18 +47,17 @@ const booksList = (
   )
 ).flat()
 
-const booksGroup = groupBy(uniqBy(booksList.reverse(), "name"), "importer")
+const booksGroup = groupBy(uniqBy([...booksList].reverse(), "name"), "importer")
 
 const books = Object.entries(booksGroup)
   .map(([, val]) => val.sort((a, b) => b.status - a.status))
   .flat()
 
 const importers = [...new Set(Object.keys(booksGroup))].filter((v) => v)
-const outputPath = path.resolve(process.cwd(), "src/assets/books.json")
+const outputPath = "src/assets/books.json"
 
-fs.writeFile(outputPath, JSON.stringify({ importers, books }, null, 4), () => {
-  browser.close()
-})
+await Bun.write(outputPath, JSON.stringify({ importers, books }, null, 4))
+browser.close()
 
 /**
  * 收集书籍信息
@@ -60,6 +66,10 @@ async function getBooks() {
   const reversed = ["小津麻理子"]
   const wronged = ["与妖为邻"]
   const tableList = [...document.querySelectorAll("table")]
+
+  // 是否出版由标题决定
+  let hasPublishedTable: undefined | boolean
+
   const booksList = tableList.reduce<Book[]>(
     (list, table, tableIndex, tableList) => {
       ;[...table.querySelectorAll("tr")].forEach((tr) => {
@@ -83,12 +93,46 @@ async function getBooks() {
           importer = ""
         }
 
+        let status: Book["status"] = 0
+
+        if (hasPublishedTable == undefined) {
+          hasPublishedTable =
+            table.previousElementSibling?.textContent?.includes("已出版") ||
+            undefined
+        }
+
+        if (hasPublishedTable) {
+          status = 1
+        }
+
+        if (!hasPublishedTable && tableIndex == tableList.length - 1) {
+          status = 1
+        }
+
+        const text = table.previousElementSibling?.textContent || ""
+        const isMatched = text.includes("已出版")
+
+        const obj = {
+          hasPublishedTable,
+          status
+        }
+
+        if (isMatched) {
+          Object.assign(obj, { text })
+        }
+
+        if (name !== "作品") {
+          Object.assign(obj, { name })
+
+          console.log("✅", JSON.stringify(obj))
+        }
+
         if (name !== "作品") {
           list.push({
             name,
             author,
             importer,
-            status: tableIndex == tableList.length - 1 ? 1 : 0
+            status
           })
         }
       })
@@ -96,6 +140,10 @@ async function getBooks() {
       return list
     },
     []
+  )
+
+  console.log(
+    "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
   )
 
   return booksList
@@ -121,12 +169,20 @@ function groupBy<T extends Book>(array: T[], iteratee: keyof T) {
  */
 function uniqBy<T extends Book>(array: T[], byKey: keyof T) {
   const seen: Record<any, boolean> = {}
-  return array.filter((item) => {
+  return array.filter((item, index, self) => {
     const val = item[byKey] as any
     if (seen.hasOwnProperty(val)) {
       return false
     }
     seen[val] = true
+
+    const sameStart = self.find(
+      (v) => v.name.startsWith(item.name) || item.name.startsWith(v.name)
+    )
+    if (sameStart) {
+      return self.indexOf(sameStart) === index
+    }
+
     return true
   })
 }

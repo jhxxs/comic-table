@@ -1,24 +1,23 @@
 {
   "compilerOptions": {
-    "module": "ESNext",
-    "target": "ES2018",
-    "useDefineForClassFields": true,
-    "lib": ["ES2020", "DOM", "DOM.Iterable"],
-    "skipLibCheck": true,
-    /* Bundler mode */
-    "moduleResolution": "node",
-    "allowImportingTsExtensions": true,
-    "resolveJsonModule": true,
-    "isolatedModules": true,
+    // add Bun type definitions
+    "types": ["bun-types", "naive-ui/volar", "unplugin-icons/types/vue"],
+    // enable latest features
+    "lib": ["esnext"],
+    "module": "esnext",
+    "target": "esnext",
+    // if TS 5.x+
+    "moduleResolution": "bundler",
     "noEmit": true,
-    "jsx": "preserve",
-    "allowSyntheticDefaultImports": true,
-    /* Linting */
+    "allowImportingTsExtensions": true,
+    "moduleDetection": "force",
+    "jsx": "react-jsx", // support JSX
+    "allowJs": true, // allow importing `.js` from `.ts`
+    "esModuleInterop": true, // allow default imports for CommonJS modules
+    // best practices
     "strict": true,
-    "noUnusedLocals": true,
-    "noUnusedParameters": true,
-    "noFallthroughCasesInSwitch": true,
-    "types": ["naive-ui/volar", "unplugin-icons/types/vue"]
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true
   },
   "include": [
     "src/**/*.ts",
@@ -26,7 +25,7 @@
     "src/**/*.tsx",
     "src/**/*.vue",
     "auto-imports.d.ts",
-    "components.d.ts"
-  ],
-  "references": [{ "path": "./tsconfig.node.json" }]
+    "components.d.ts",
+    "html/*.ts"
+  ]
 }
